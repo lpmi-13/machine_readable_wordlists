@@ -1,0 +1,815 @@
+function_words:
+- the
+- which
+- still
+- although
+- forty
+- and
+- up
+- last
+- past
+- nobody
+- of
+- out
+- being
+- himself
+- unless
+- to
+- would
+- must
+- seven
+- mine
+- a
+- when
+- another
+- eight
+- anybody
+- I
+- your
+- between
+- along
+- till
+- in
+- will
+- might
+- round
+- herself
+- you
+- their
+- both
+- several
+- twelve
+- that
+- who
+- five
+- someone
+- fifteen
+- it
+- some
+- four
+- whatever
+- beyond
+- for
+- two
+- around
+- among
+- whom
+- he
+- because
+- while
+- across
+- below
+- 'on'
+- how
+- each
+- behind
+- none
+- we
+- other
+- under
+- million
+- nor
+- they
+- could
+- away
+- outside
+- more
+- be
+- our
+- every
+- nine
+- most
+- with
+- into
+- next
+- thousand
+- this
+- these
+- anything
+- shall
+- have
+- than
+- few
+- myself
+- but
+- any
+- though
+- themselves
+- as
+- where
+- since
+- itself
+- not
+- over
+- against
+- somebody
+- at
+- back
+- second
+- upon
+- what
+- first
+- nothing
+- thirty
+- so
+- much
+- without
+- third
+- there
+- down
+- during
+- above
+- or
+- its
+- six
+- therefore
+- one
+- should
+- enough
+- everybody
+- by
+- after
+- once
+- towards
+- from
+- those
+- however
+- thus
+- all
+- may
+- half
+- everyone
+- she
+- something
+- yet
+- near
+- 'no'
+- three
+- whether
+- inside
+- his
+- little
+- everything
+- nineteen
+- do
+- many
+- until
+- yourself
+- can
+- why
+- hundred
+- fifty
+- if
+- before
+- within
+- whose
+- about
+- such
+- ten
+- anyone
+- my
+- 'off'
+- twenty
+- per
+- her
+- through
+- either
+- except
+lexical_words:
+  '1':
+  - know
+  - go
+  - mean
+  - take
+  - long
+  - like
+  - 'yes'
+  - come
+  - make
+  - need
+  - well
+  - very
+  - also
+  - year
+  - Mr.
+  - just
+  - see
+  - okay
+  - look
+  - thought
+  - think
+  - people
+  - want
+  - thing
+  - lot
+  - right
+  - here
+  - way
+  - man
+  - same
+  - then
+  - good
+  - even
+  - put
+  - old
+  - now
+  - only
+  - new
+  - let
+  - word
+  - get
+  - really
+  - too
+  - day
+  - course
+  - time
+  - say
+  - work
+  - never
+  - life
+  '10':
+  - president
+  - standard
+  - wish
+  - fun
+  - security
+  - production
+  - record
+  - serious
+  - financial
+  - send
+  - trouble
+  - ball
+  - minister
+  - ahead
+  - dog
+  - management
+  - piece
+  - growth
+  - tonight
+  - degree
+  - account
+  - interested
+  - blood
+  - lower
+  - dear
+  - size
+  - natural
+  - bill
+  - current
+  - date
+  - hot
+  - agree
+  - trade
+  - recently
+  - normal
+  - worth
+  - modern
+  - list
+  - model
+  - blue
+  - simple
+  - student
+  - basis
+  - population
+  - material
+  - hell
+  - summer
+  - floor
+  - funny
+  - choice
+  '11':
+  - approach
+  - pressure
+  - island
+  - fish
+  - cover
+  - computer
+  - picture
+  - sign
+  - clearly
+  - afternoon
+  - straight
+  - relationship
+  - basic
+  - share
+  - science
+  - space
+  - dark
+  - military
+  - doubt
+  - movement
+  - colour
+  - drive
+  - press
+  - wide
+  - expect
+  - fall
+  - visit
+  - spend
+  - step
+  - capital
+  - performance
+  - green
+  - consider
+  - income
+  - economy
+  - culture
+  - teaching
+  - sea
+  - drink
+  - Christmas
+  - pick
+  - hotel
+  - complete
+  - authority
+  - fast
+  - river
+  - truth
+  - bye
+  - film
+  - continue
+  '12':
+  - kill
+  - design
+  - theory
+  - completely
+  - earth
+  - follow
+  - wonder
+  - shot
+  - worry
+  - organisation
+  - function
+  - dinner
+  - energy
+  - generally
+  - wall
+  - practice
+  - medical
+  - offer
+  - page
+  - property
+  - former
+  - fair
+  - patients
+  - average
+  - activity
+  - sister
+  - radio
+  - significant
+  - respect
+  - note
+  - absolutely
+  - legal
+  - deep
+  - structure
+  - treatment
+  - somewhere
+  - pass
+  - begin
+  - club
+  - station
+  - include
+  - nearly
+  - quickly
+  - purpose
+  - teacher
+  - Sunday
+  - daughter
+  - charge
+  - specific
+  - forget
+  '13':
+  - television
+  - trust
+  - original
+  - western
+  - window
+  - dollar
+  - opportunity
+  - carry
+  - square
+  - key
+  - rights
+  - direct
+  - series
+  - fight
+  - born
+  - environment
+  - park
+  - cool
+  - response
+  - sex
+  - style
+  - eye
+  - hall
+  - region
+  '2':
+  - again
+  - kind
+  - point
+  - night
+  - side
+  - own
+  - actually
+  - number
+  - left
+  - god
+  - quite
+  - sort
+  - school
+  - found
+  - week
+  - give
+  - government
+  - end
+  - high
+  - family
+  - home
+  - house
+  - money
+  - help
+  - ever
+  - tell
+  - find
+  - better
+  - maybe
+  - talk
+  - world
+  - place
+  - big
+  - far
+  - state
+  - use
+  - different
+  - probably
+  - case
+  - set
+  - always
+  - part
+  - fact
+  - whole
+  - system
+  - great
+  - sure
+  - bit
+  - today
+  - keep
+  '3':
+  - problem
+  - real
+  - later
+  - sorry
+  - try
+  - love
+  - best
+  - hand
+  - show
+  - change
+  - name
+  - laugh
+  - already
+  - able
+  - general
+  - percent
+  - room
+  - mind
+  - together
+  - area
+  - call
+  - remember
+  - thank
+  - order
+  - believe
+  - water
+  - nice
+  - job
+  - head
+  - young
+  - important
+  - rather
+  - business
+  - least
+  - power
+  - country
+  - public
+  - else
+  - read
+  - almost
+  - small
+  - mother
+  - group
+  - morning
+  - start
+  - feel
+  - less
+  - question
+  - car
+  - person
+  '4':
+  - company
+  - care
+  - open
+  - city
+  - become
+  - perhaps
+  - ask
+  - pretty
+  - possible
+  - local
+  - ago
+  - social
+  - matter
+  - cause
+  - run
+  - hard
+  - national
+  - information
+  - present
+  - anyway
+  - form
+  - book
+  - hey
+  - leave
+  - full
+  - party
+  - father
+  - face
+  - service
+  - office
+  - means
+  - bad
+  - early
+  - stuff
+  - live
+  - often
+  - war
+  - please
+  - idea
+  - development
+  - example
+  - large
+  - pay
+  - line
+  - level
+  - play
+  - 'true'
+  - woman
+  - guess
+  - understand
+  '5':
+  - fine
+  - food
+  - wrong
+  - reason
+  - boy
+  - certain
+  - moment
+  - further
+  - black
+  - research
+  - turn
+  - sense
+  - move
+  - human
+  - light
+  - control
+  - law
+  - guy
+  - university
+  - data
+  - sometimes
+  - programme
+  - girl
+  - body
+  - wait
+  - political
+  - free
+  - wife
+  - act
+  - road
+  - top
+  - front
+  - education
+  - hope
+  - particular
+  - story
+  - language
+  - close
+  - child
+  - paper
+  - door
+  - study
+  - stop
+  - interest
+  - view
+  - hear
+  - white
+  - class
+  - air
+  - major
+  '6':
+  - thinking
+  - late
+  - short
+  - Mrs.
+  - deal
+  - stay
+  - cut
+  - community
+  - living
+  - news
+  - market
+  - south
+  - cost
+  - difficult
+  - future
+  - age
+  - report
+  - friend
+  - town
+  - death
+  - support
+  - soon
+  - economic
+  - music
+  - figure
+  - clear
+  - usually
+  - position
+  - health
+  - land
+  - police
+  - bring
+  - period
+  - buy
+  - process
+  - department
+  - society
+  - policy
+  - certainly
+  - meeting
+  - table
+  - history
+  - special
+  - type
+  - seem
+  - experience
+  - couple
+  - centre
+  - street
+  - interesting
+  '7':
+  - situation
+  - available
+  - low
+  - effect
+  - private
+  - alright
+  - mum
+  - meet
+  - subject
+  - easy
+  - court
+  - church
+  - west
+  - college
+  - month
+  - exactly
+  - rate
+  - art
+  - red
+  - evidence
+  - main
+  - council
+  - century
+  - hour
+  - total
+  - rest
+  - answer
+  - dead
+  - provide
+  - indeed
+  - son
+  - common
+  - particularly
+  - watch
+  - strong
+  - miss
+  - north
+  - hi
+  - staff
+  - stage
+  - hold
+  - happy
+  - result
+  - board
+  - committee
+  - especially
+  - building
+  - plan
+  - husband
+  - tax
+  '8':
+  - thanks
+  - instead
+  - ready
+  - individual
+  - listen
+  - middle
+  - action
+  - sound
+  - similar
+  - likely
+  - suppose
+  - personal
+  - international
+  - doctor
+  - sit
+  - field
+  - write
+  - necessary
+  - yesterday
+  - feeling
+  - game
+  - team
+  - training
+  - nature
+  - voice
+  - test
+  - heart
+  - ok
+  - increase
+  - poor
+  - dad
+  - value
+  - according
+  - Dr
+  - self
+  - section
+  - issue
+  - single
+  - bed
+  - chance
+  - industry
+  - various
+  - term
+  - fire
+  - speak
+  - sir
+  - alone
+  - stand
+  - baby
+  - earlier
+  '9':
+  - finally
+  - letter
+  - hair
+  - cold
+  - evening
+  - quality
+  - range
+  - bank
+  - central
+  - hello
+  - happen
+  - ground
+  - obviously
+  - throat
+  - hospital
+  - amount
+  - reading
+  - east
+  - eat
+  - simply
+  - role
+  - tomorrow
+  - writing
+  - learn
+  - walk
+  - force
+  - due
+  - return
+  - price
+  - hit
+  - difference
+  - knowledge
+  - break
+  - foreign
+  - recent
+  - phone
+  - brother
+  - project
+  - lead
+  - final
+  - forward
+  - decision
+  - minute
+  - analysis
+  - beginning
+  - member
+  - beautiful
+  - check
+  - post
+  - attention
