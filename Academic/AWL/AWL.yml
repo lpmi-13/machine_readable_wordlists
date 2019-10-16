@@ -1,0 +1,3689 @@
+sublist_1:
+    analyse:
+      subwords: 
+        - analysed
+        - analyser
+        - analysing
+        - analysis
+        - analyst
+        - analytic
+        - analytical
+        - analytically
+        - analyze
+        - analyzed
+        - analyzing
+    approach:
+      subwords:
+        - approachable
+        - approached
+        - approaches
+        - approaching
+        - unapproachable
+    area:
+      subwords:
+        - areas
+    assess:
+      subwords:
+        - assessable
+        - assessed
+        - assesses
+        - assessing
+        - assessment
+        - assessments
+        - reassess
+        - reassessed 
+        - reassessing 
+        - reassessment
+        - unassessed
+    assume:
+      subwords:
+        - assumed
+        - assumes
+        - assuming
+        - assumption
+        - assumptions
+    authority:
+      subwords:
+        - authoritative
+        - authorities
+    available:
+      subwords:
+        - availability
+        - unavailable
+    benefit:
+      subwords:
+        - beneficial
+        - beneficiary
+        - beneficiaries
+        - benefited
+        - benefiting
+        - benefits 
+    concept:
+      subwords:
+        - conception 
+        - concepts
+        - conceptual
+        - conceptualisation
+        - conceptualise
+        - conceptualised
+        - conceptualises
+        - conceptualising
+        - conceptually
+    consist:
+      subwords:
+        - consisted
+        - consistency
+        - consistent
+        - consistently
+        - consisting
+        - consists
+        - inconsistencies 
+        - inconsistency
+        - inconsistent
+    constitute:
+      subwords:
+        - constituencies 
+        - constituency
+        - constituent 
+        - constituents 
+        - constituted
+        - constitutes 
+        - constituting
+        - constitution
+        - constitutions  
+        - constitutional
+        - constitutionally
+        - constitutive
+        - unconstitutional
+    context:
+      subwords:
+        - contexts
+        - contextual
+        - contextualise 
+        - contextualised 
+        - contextualising 
+        - uncontextualised 
+        - contextualize 
+        - contextualized 
+        - contextualizing 
+        - uncontextualized 
+    contract:
+      subwords:
+        - contracted
+        - contracting
+        - contractor
+        - contractors
+        - contracts 
+    create:
+      subwords:
+        - created
+        - creates
+        - creating
+        - creation
+        - creations
+        - creative
+        - creatively
+        - creativity
+        - creator
+        - creators
+        - recreate
+        - recreated
+        - recreates
+        - recreating
+    data:
+      subwords:
+        - data
+    define:
+      subwords:
+        - definable
+        - defined 
+        - defines
+        - defining
+        - definition
+        - definitions
+        - redefine
+        - redefined
+        - redefines
+        - redefining
+        - undefined
+    derive:
+      subwords:
+        - derivation
+        - derivations
+        - derivative 
+        - derivatives 
+        - derived 
+        - derives
+        - deriving
+    distribute:
+      subwords:
+        - distributed
+        - distributing
+        - distribution 
+        - distributional 
+        - distributions
+        - distributive
+        - distributor 
+        - distributors
+        - redistribute
+        - redistributed
+        - redistributes
+        - redistributing
+        - redistribution
+    economy:
+      subwords:
+        - economic
+        - economical
+        - economically
+        - economics 
+        - economies
+        - economist
+        - economists
+        - uneconomical
+    environment:
+      subwords:
+        - environmental 
+        - environmentalist  
+        - environmentalists 
+        - environmentally
+        - environments
+    establish:
+      subwords:
+        - disestablish  
+        - disestablished
+        - disestablishes
+        - disestablishing
+        - disestablishment
+        - established
+        - establishes
+        - establishing
+        - establishment
+        - establishments
+    estimate:
+      subwords:
+        - estimated
+        - estimates 
+        - estimating
+        - estimation
+        - estimations
+        - over‑estimate
+        - overestimate
+        - overestimated
+        - overestimates
+        - overestimating
+        - underestimate
+        - underestimated
+        - underestimates
+        - underestimating
+    evident:
+      subwords:
+        - evidenced
+        - evidence
+        - evidential 
+        - evidently
+    export:
+      subwords:
+        - exported
+        - exporter
+        - exporters
+        - exporting
+        - exports
+    factor:
+      subwords:
+        - factored
+        - factoring
+        - factors
+    finance:
+      subwords:
+        - financed
+        - finances
+        - financial
+        - financially
+        - financier 
+        - financiers
+        - financing
+    formula:
+      subwords:
+        - formulae
+        - formulas
+        - formulate
+        - formulated
+        - formulating
+        - formulation
+        - formulations
+        - reformulate
+        - reformulated
+        - reformulating
+        - reformulation
+        - reformulations
+    function:
+      subwords:
+        - functional
+        - functionally
+        - functioned
+        - functioning
+        - functions
+    identify:
+      subwords:
+        - identifiable 
+        - identification  
+        - identified
+        - identifies 
+        - identifying
+        - identities
+        - identity
+        - unidentifiable 
+    income:
+      subwords:
+        - incomes
+    indicate:
+      subwords:
+        - indicated
+        - indicates 
+        - indicating 
+        - indication 
+        - indications
+        - indicative
+        - indicator
+        - indicators
+    individual:
+      subwords:
+        - individualised
+        - individuality
+        - individualism
+        - individualist
+        - individualists
+        - individualistic
+        - individually
+        - individuals 
+    interpret:
+      subwords:
+        - interpretation
+        - interpretations  
+        - interpretative 
+        - interpreted
+        - interpreting 
+        - interpretive
+        - interprets
+        - misinterpret
+        - misinterpretation
+        - misinterpretations
+        - misinterpreted
+        - misinterpreting
+        - misinterprets
+        - reinterpret
+        - reinterpreted
+        - reinterprets
+        - reinterpreting
+        - reinterpretation
+        - reinterpretations
+    involve:
+      subwords:
+        - involved
+        - involvement
+        - involves
+        - involving
+        - uninvolved
+    issue:
+      subwords:
+        - issued
+        - issues
+        - issuing
+    labour:
+      subwords:
+        - labor
+        - labored
+        - labors
+        - laboured
+        - labouring
+        - labours
+    legal:
+      subwords:
+        - illegal  
+        - illegality
+        - illegally
+        - legality
+        - legally
+    legislate:
+      subwords:
+        - legislated
+        - legislates
+        - legislating
+        - legislation
+        - legislative
+        - legislator
+        - legislators
+        - legislature
+    major:
+      subwords:
+        - majorities
+        - majority
+    method:
+      subwords:
+        - methodical
+        - methodological
+        - methodologies
+        - methodology
+        - methods 
+    occur:
+      subwords:
+        - occurred
+        - occurrence 
+        - occurrences
+        - occurring
+        - occurs
+        - reoccur 
+        - reoccurred 
+        - reoccurring
+        - reoccurs 
+    percent:
+      subwords:
+        - percentage
+        - percentages
+    period:
+      subwords:
+        - periodic
+        - periodical
+        - periodically
+        - periodicals
+        - periods
+    policy:
+      subwords:
+        - policies 
+    principle:
+      subwords:
+        - principled
+        - principles
+        - unprincipled
+    proceed:
+      subwords:
+        - procedural
+        - procedure
+        - procedures
+        - proceeded
+        - proceeding
+        - proceedings
+        - proceeds
+    process:
+      subwords:
+        - processed
+        - processes
+        - processing 
+    require:
+      subwords:
+        - required
+        - requirement
+        - requirements 
+        - requires
+        - requiring
+    research:
+      subwords:
+        - researched
+        - researcher
+        - researchers 
+        - researches
+        - researching
+    respond:
+      subwords:
+        - responded
+        - respondent
+        - respondents
+        - responding
+        - responds
+        - response
+        - responses
+        - responsive
+        - responsiveness
+        - unresponsive 
+    role:
+      subwords:
+        - roles
+    section:
+      subwords:
+        - sectioned
+        - sectioning
+        - sections 
+    sector:
+      subwords:
+        - sectors
+    significant:
+      subwords:
+        - insignificant
+        - insignificantly
+        - significance
+        - significantly 
+        - signified
+        - signifies
+        - signify
+        - signifying
+    similar:
+      subwords:
+        - dissimilar
+        - similarities
+        - similarity 
+        - similarly
+    source:
+      subwords:
+        - sourced
+        - sources 
+        - sourcing
+    specific:
+      subwords:
+        - specifically
+        - specification 
+        - specifications
+        - specificity
+        - specifics
+    structure:
+      subwords:
+        - restructure
+        - restructured
+        - restructures
+        - restructuring
+        - structural
+        - structurally
+        - structured 
+        - structures
+        - structuring
+        - unstructured
+    theory:
+      subwords:
+        - theoretical
+        - theoretically
+        - theories
+        - theorist
+        - theorists
+    vary:
+      subwords:
+        - invariable
+        - invariably
+        - variability
+        - variable 
+        - variables
+        - variably
+        - variance
+        - variant
+        - variants
+        - variation
+        - variations 
+        - varied
+        - varies
+        - varying
+sublist_2:
+    achieve:
+      subwords:
+        - achievable
+        - achieved
+        - achievement
+        - achievements
+        - achieves
+        - achieving
+    acquire:
+      subwords:
+        - acquired 
+        - acquires
+        - acquiring
+        - acquisition
+        - acquisitions
+    administrate:
+      subwords:
+        - administrates
+        - administration  
+        - administrations  
+        - administrative 
+        - administratively
+        - administrator
+        - administrators
+    affect:
+      subwords:
+        - affected
+        - affecting
+        - affective
+        - affectively
+        - affects
+        - unaffected
+    appropriate:
+      subwords:
+        - appropriacy
+        - appropriately
+        - appropriateness
+        - inappropriacy 
+        - inappropriate
+        - inappropriately
+    aspect:
+      subwords:
+        - aspects
+    assist:
+      subwords:
+        - assistance 
+        - assistant
+        - assistants
+        - assisted
+        - assisting
+        - assists
+        - unassisted
+    category:
+      subwords:
+        - categories
+        - categorisation
+        - categorise
+        - categorised
+        - categorises
+        - categorising
+        - categorization
+        - categorized
+        - categorizes
+        - categorizing 
+    chapter:
+      subwords:
+        - chapters
+    commission:
+      subwords:
+        - commissioned
+        - commissioner
+        - commissioners
+        - commissioning
+        - commissions
+    community:
+      subwords:
+        - communities
+    complex:
+      subwords:
+        - complexities
+        - complexity 
+    compute:
+      subwords:
+        - computation
+        - computational
+        - computations
+        - computable
+        - computer
+        - computed
+        - computerised
+        - computers
+        - computing
+    conclude:
+      subwords:
+        - concluded
+        - concludes
+        - concluding
+        - conclusion
+        - conclusions 
+        - conclusive
+        - conclusively
+        - inconclusive
+        - inconclusively
+    conduct:
+      subwords:
+        - conducted 
+        - conducting
+        - conducts
+    consequent:
+      subwords:
+        - consequence
+        - consequences
+        - consequently
+    construct:
+      subwords:
+        - constructed 
+        - constructing 
+        - construction
+        - constructions
+        - constructive 
+        - constructs
+        - reconstruct
+        - reconstructed
+        - reconstructing
+        - reconstruction
+        - reconstructs
+    consume:
+      subwords:
+        - consumed
+        - consumer  
+        - consumers 
+        - consumes
+        - consuming
+        - consumption
+    credit:
+      subwords:
+        - credited
+        - crediting
+        - creditor
+        - creditors
+        - credits
+    culture:
+      subwords:
+        - cultural 
+        - culturally
+        - cultured
+        - cultures  
+        - uncultured
+    design:
+      subwords:
+        - designed 
+        - designer
+        - designers
+        - designing
+        - designs 
+    distinct:
+      subwords:
+        - distinction
+        - distinctions 
+        - distinctive 
+        - distinctively
+        - distinctly
+        - indistinct
+        - indistinctly
+    element:
+      subwords:
+        - elements 
+    equate:
+      subwords:
+        - equated 
+        - equates
+        - equating
+        - equation
+        - equations
+    evaluate:
+      subwords:
+        - evaluated
+        - evaluates
+        - evaluating
+        - evaluation 
+        - evaluations
+        - evaluative
+        - re-evaluate 
+        - re-evaluated 
+        - re-evaluates
+        - re-evaluating 
+        - re-evaluation
+    feature:
+      subwords:
+        - featured
+        - features 
+        - featuring
+    final:
+      subwords:
+        - finalise
+        - finalised
+        - finalises
+        - finalising
+        - finalize
+        - finalized
+        - finalizes
+        - finalizing
+        - finality
+        - finally
+        - finals
+    focus:
+      subwords:
+        - focused
+        - focuses
+        - focusing
+        - focussed
+        - focussing
+        - refocus
+        - refocused
+        - refocuses
+        - refocusing
+        - refocussed 
+        - refocusses
+        - refocussing
+    impact:
+      subwords:
+        - impacted
+        - impacting
+        - impacts
+    injure:
+      subwords:
+        - injured
+        - injures
+        - injuries
+        - injuring
+        - injury
+        - uninjured
+    institute:
+      subwords:
+        - instituted
+        - institutes
+        - instituting
+        - institution
+        - institutional
+        - institutionalise 
+        - institutionalised 
+        - institutionalises 
+        - institutionalising 
+        - institutionalized
+        - institutionalizes 
+        - institutionalizing 
+        - institutionally
+        - institutions
+    invest:
+      subwords:
+        - invested
+        - investing
+        - investment
+        - investments
+        - investor
+        - investors
+        - invests
+        - reinvest
+        - reinvested
+        - reinvesting
+        - reinvestment
+        - reinvests
+    item:
+      subwords:
+        - itemisation
+        - itemise
+        - itemised
+        - itemises  
+        - itemising
+        - items
+    journal:
+      subwords:
+        - journals
+    maintain:
+      subwords:
+        - maintained 
+        - maintaining 
+        - maintains
+        - maintenance
+    normal:
+      subwords:
+        - abnormal
+        - abnormally
+        - normalisation
+        - normalise
+        - normalised
+        - normalises
+        - normalising
+        - normalization
+        - normalize
+        - normalized
+        - normalizes
+        - normalizing
+        - normality
+        - normally
+    obtain:
+      subwords:
+        - obtainable
+        - obtained 
+        - obtaining
+        - obtains
+        - unobtainable 
+    participate:
+      subwords:
+        - participant
+        - participants
+        - participated
+        - participates
+        - participating 
+        - participation
+        - participatory
+    perceive:
+      subwords:
+        - perceived 
+        - perceives
+        - perceiving 
+        - perception 
+        - perceptions 
+    positive:
+      subwords:
+        - positively 
+    potential:
+      subwords:
+        - potentially 
+    previous:
+      subwords:
+        - previously 
+    primary:
+      subwords:
+        - primarily 
+    purchase:
+      subwords:
+        - purchased
+        - purchaser
+        - purchasers
+        - purchases
+        - purchasing
+    range:
+      subwords:
+        - ranged
+        - ranges
+        - ranging
+    region:
+      subwords:
+        - regional
+        - regionally
+        - regions
+    regulate:
+      subwords:
+        - deregulated
+        - deregulates
+        - deregulating
+        - deregulation
+        - regulated
+        - regulates
+        - regulating
+        - regulation 
+        - regulations
+        - regulator
+        - regulators
+        - regulatory
+        - unregulated 
+    relevant:
+      subwords:
+        - irrelevance
+        - irrelevant
+        - relevance
+    reside:
+      subwords:
+        - resided
+        - residence
+        - resident
+        - residential
+        - residents
+        - resides
+        - residing
+    resource:
+      subwords:
+        - resourced
+        - resourceful
+        - resources
+        - resourcing
+        - unresourceful
+        - under-resourced
+    restrict:
+      subwords:
+        - restricted 
+        - restricting
+        - restriction 
+        - restrictions
+        - restrictive
+        - restrictively 
+        - restricts
+        - unrestricted
+        - unrestrictive
+    secure:
+      subwords:
+        - insecure
+        - insecurities
+        - insecurity
+        - secured
+        - securely
+        - secures
+        - securing
+        - securities
+        - security 
+    seek:
+      subwords:
+        - seeking
+        - seeks
+        - sought
+    select:
+      subwords:
+        - selected
+        - selecting
+        - selection 
+        - selections
+        - selective
+        - selectively
+        - selector
+        - selectors
+        - selects
+    site:
+      subwords:
+        - sites
+    strategy:
+      subwords:
+        - strategic 
+        - strategies
+        - strategically
+        - strategist
+        - strategists
+    survey:
+      subwords:
+        - surveyed
+        - surveying
+        - surveys
+    text:
+      subwords:
+        - texts
+        - textual
+    tradition:
+      subwords:
+        - non-traditional
+        - traditional
+        - traditionalist
+        - traditionally
+        - traditions
+    transfer:
+      subwords:
+        - transferable
+        - transference
+        - transferred 
+        - transferring
+        - transfers
+sublist_3:
+    alternative:
+      subwords:
+        - alternatively
+        - alternatives
+    circumstance:
+      subwords:
+        - circumstances 
+    comment:
+      subwords:
+        - commentaries
+        - commentary
+        - commentator
+        - commentators
+        - commented
+        - commenting
+        - comments
+    compensate:
+      subwords:
+        - compensated 
+        - compensates
+        - compensating
+        - compensation
+        - compensations
+        - compensatory 
+    component:
+      subwords:
+        - componentry
+        - components
+    consent:
+      subwords:
+        - consensus
+        - consented
+        - consenting
+        - consents
+    considerable:
+      subwords:
+        - considerably
+    constant:
+      subwords:
+        - constancy
+        - constantly
+        - constants
+        - inconstancy
+        - inconstantly
+    constrain:
+      subwords:
+        - constrained
+        - constraining
+        - constrains
+        - constraint 
+        - constraints
+        - unconstrained 
+    contribute:
+      subwords:
+        - contributed 
+        - contributes
+        - contributing 
+        - contribution
+        - contributions
+        - contributor
+        - contributors
+    convene:
+      subwords:
+        - convention
+        - convenes      
+        - convened
+        - convening
+        - conventional
+        - conventionally
+        - conventions 
+        - unconventional
+    coordinate:
+      subwords:
+        - coordinated 
+        - coordinates
+        - coordinating
+        - coordination
+        - coordinator 
+        - coordinators
+        - co-ordinate
+        - co‑ordinated 
+        - co‑ordinates
+        - co‑ordinating
+        - co‑ordination 
+        - co‑ordinator
+        - co‑ordinators
+    core:
+      subwords:
+        - cores
+        - coring
+        - cored 
+    corporate:
+      subwords:
+        - corporates 
+        - corporation
+        - corporations 
+    correspond:
+      subwords:
+        - corresponded
+        - correspondence
+        - corresponding
+        - correspondingly 
+        - corresponds 
+    criteria:
+      subwords:
+        - criterion
+    deduce:
+      subwords:
+        - deduced
+        - deduces
+        - deducing
+        - deduction
+        - deductions
+    demonstrate:
+      subwords:
+        - demonstrable
+        - demonstrably 
+        - demonstrated
+        - demonstrates 
+        - demonstrating
+        - demonstration 
+        - demonstrations
+        - demonstrative
+        - demonstratively
+        - demonstrator
+        - demonstrators
+    document:
+      subwords:
+        - documentation
+        - documented
+        - documenting
+        - documents 
+    dominate:
+      subwords:
+        - dominance
+        - dominant
+        - dominated
+        - dominates
+        - dominating
+        - domination
+    emphasis:
+      subwords:
+        - emphasise
+        - emphasised
+        - emphasising
+        - emphasize
+        - emphasized
+        - emphasizes
+        - emphasizing
+        - emphatic
+        - emphatically
+    ensure:
+      subwords:
+        - ensured
+        - ensures
+        - ensuring
+    exclude:
+      subwords:
+        - excluded
+        - excludes
+        - excluding
+        - exclusion
+        - exclusionary
+        - exclusionist
+        - exclusions
+        - exclusive
+        - exclusively 
+    framework:
+      subwords:
+        - frameworks
+    fund:
+      subwords:
+        - funded 
+        - funder
+        - funders
+        - funding
+        - funds
+    illustrate:
+      subwords:
+        - illustrated 
+        - illustrates 
+        - illustrating
+        - illustration 
+        - illustrations
+        - illustrative
+    immigrate:
+      subwords:
+        - immigrant
+        - immigrants
+        - immigrated
+        - immigrates
+        - immigrating
+        - immigration
+    imply:
+      subwords:
+        - implied
+        - implies
+        - implying
+    initial:
+      subwords:
+        - initially
+    instance:
+      subwords:
+        - instances 
+    interact:
+      subwords:
+        - interacted
+        - interacting
+        - interaction
+        - interactions
+        - interactive
+        - interactively
+        - interacts
+    justify:
+      subwords:
+        - justifiable
+        - justifiably
+        - justification
+        - justifications
+        - justified
+        - justifies
+        - justifying
+        - unjustified
+    layer:
+      subwords:
+        - layered
+        - layering
+        - layers
+    link:
+      subwords:
+        - linkage
+        - linkages
+        - linked
+        - linking
+        - links
+    locate:
+      subwords:
+        - located
+        - locating
+        - location
+        - locations
+        - relocate
+        - relocated
+        - relocates
+        - relocating
+        - relocation
+    maximise:
+      subwords:
+        - max 
+        - maximised
+        - maximises
+        - maximising
+        - maximisation
+        - maximize 
+        - maximized
+        - maximizes 
+        - maximizing
+        - maximization  
+        - maximum
+    minor:
+      subwords:
+        - minorities
+        - minority
+        - minors
+    negate:
+      subwords:
+        - negative
+        - negated
+        - negates
+        - negating
+        - negatively
+        - negatives
+    outcome:
+      subwords:
+        - outcomes
+    partner:
+      subwords:
+        - partners
+        - partnership
+        - partnerships 
+    philosophy:
+      subwords:
+        - philosopher
+        - philosophers
+        - philosophical
+        - philosophically 
+        - philosophies
+        - philosophise 
+        - philosophised
+        - philosophises
+        - philosophising
+        - philosophize
+        - philosophized
+        - philosophizes
+        - philosophizing
+    physical:
+      subwords:
+        - physically
+    proportion:
+      subwords:
+        - disproportion
+        - disproportionate
+        - disproportionately
+        - proportional
+        - proportionally
+        - proportionate
+        - proportionately 
+        - proportions
+    publish:
+      subwords:
+        - published 
+        - publisher 
+        - publishers
+        - publishes
+        - publishing
+        - unpublished
+    react:
+      subwords:
+        - reacted 
+        - reacts
+        - reacting
+        - reaction
+        - reactionaries
+        - reactionary
+        - reactions
+        - reactive
+        - reactivate
+        - reactivation
+        - reactor
+        - reactors
+    register:
+      subwords:
+        - deregister 
+        - deregistered 
+        - deregistering
+        - deregisters 
+        - deregistration 
+        - registered 
+        - registering
+        - registers
+        - registration 
+    rely:
+      subwords:
+        - reliability 
+        - reliable
+        - reliably
+        - reliance
+        - reliant 
+        - relied
+        - relies
+        - relying
+        - unreliable
+    remove:
+      subwords:
+        - removable
+        - removal
+        - removals
+        - removed
+        - removes
+        - removing
+    scheme:
+      subwords:
+        - schematic
+        - schematically
+        - schemed
+        - schemes
+        - scheming
+    sequence:
+      subwords:
+        - sequenced
+        - sequences
+        - sequencing
+        - sequential
+        - sequentially
+    sex:
+      subwords:
+        - sexes 
+        - sexism 
+        - sexual
+        - sexuality
+        - sexually
+    shift:
+      subwords:
+        - shifted
+        - shifting
+        - shifts
+    specify:
+      subwords:
+        - specifiable
+        - specified 
+        - specifies
+        - specifying
+        - unspecified
+    sufficient:
+      subwords:
+        - sufficiency
+        - insufficient
+        - insufficiently
+        - sufficiently
+    task:
+      subwords:
+        - tasks
+    technical:
+      subwords:
+        - technically
+    technique:
+      subwords:
+        - techniques
+    technology:
+      subwords:
+        - technological
+        - technologically
+    valid:
+      subwords:
+        - invalidate
+        - invalidity
+        - validate
+        - validated
+        - validating
+        - validation
+        - validity
+        - validly
+    volume:
+      subwords:
+        - volumes   
+        - vol
+sublist_4:
+    access:
+      subwords:
+        - accessed
+        - accesses
+        - accessibility
+        - accessible
+        - accessing
+        - inaccessible
+    adequate:
+      subwords:
+        - adequacy
+        - adequately
+        - inadequacies
+        - inadequacy
+        - inadequate
+        - inadequately
+    annual:
+      subwords:
+        - annually
+    apparent:
+      subwords:
+        - apparently 
+    approximate:
+      subwords:
+        - approximated
+        - approximately
+        - approximates
+        - approximating
+        - approximation
+        - approximations
+    attitude:
+      subwords:
+        - attitudes 
+    attribute:
+      subwords:
+        - attributable 
+        - attributed 
+        - attributes
+        - attributing
+        - attribution
+    civil:
+      subwords:
+    code:
+      subwords:
+        - coded 
+        - codes
+        - coding 
+    commit:
+      subwords:
+        - commitment 
+        - commitments
+        - commits
+        - committed
+        - committing
+    communicate:
+      subwords:
+        - communicable
+        - communicated
+        - communicates
+        - communicating
+        - communication
+        - communications
+        - communicative
+        - communicatively
+        - uncommunicative 
+    concentrate:
+      subwords:
+        - concentrated 
+        - concentrates
+        - concentrating
+        - concentration
+    confer:
+      subwords:
+        - conference 
+        - conferences
+        - conferred
+        - conferring
+        - confers
+    contrast:
+      subwords:
+        - contrasted
+        - contrasting
+        - contrastive
+        - contrasts
+    cycle:
+      subwords:
+        - cycled
+        - cycles
+        - cyclic
+        - cyclical
+        - cycling
+    debate:
+      subwords:
+        - debatable
+        - debated
+        - debates
+        - debating
+    despite:
+      subwords:
+    dimension:
+      subwords:
+        - dimensional
+        - dimensions 
+        - multidimensional
+    domestic:
+      subwords:
+        - domestically
+        - domesticate
+        - domesticated
+        - domesticating
+        - domestics
+    emerge:
+      subwords:
+        - emerged 
+        - emergence 
+        - emergent 
+        - emerges 
+        - emerging 
+    error:
+      subwords:
+        - erroneous
+        - erroneously
+        - errors
+    ethnic:
+      subwords:
+        - ethnicity
+    goal:
+      subwords:
+        - goals
+    grant:
+      subwords:
+        - granted
+        - granting
+        - grants
+    hence:
+      subwords:
+    hypothesis:
+      subwords:
+        - hypotheses
+        - hypothesise
+        - hypothesised
+        - hypothesises
+        - hypothesising
+        - hypothesize
+        - hypothesized
+        - hypothesizes
+        - hypothesizing
+        - hypothetical  
+        - hypothetically
+    implement:
+      subwords:
+        - implementation
+        - implemented 
+        - implementing 
+        - implements
+    implicate:
+      subwords:
+        - implicated
+        - implicates
+        - implicating
+        - implication 
+        - implications
+    impose:
+      subwords:
+        - imposed
+        - imposes
+        - imposing
+        - imposition
+    integrate:
+      subwords:
+        - integrated 
+        - integrates
+        - integrating
+        - integration
+    internal:
+      subwords:
+        - internalise
+        - internalised
+        - internalises
+        - internalising
+        - internalize 
+        - internalized 
+        - internalizes
+        - internalizing
+        - internally
+    investigate:
+      subwords:
+        - investigated 
+        - investigates 
+        - investigating 
+        - investigation
+        - investigations
+        - investigative
+        - investigator
+        - investigators
+    job:
+      subwords:
+        - jobs
+    label:
+      subwords:
+        - labeled
+        - labeling
+        - labelled
+        - labelling
+        - labels
+    mechanism:
+      subwords:
+        - mechanisms 
+    obvious:
+      subwords:
+        - obviously
+    occupy:
+      subwords:
+        - occupancy
+        - occupant
+        - occupants
+        - occupation 
+        - occupational  
+        - occupations 
+        - occupied
+        - occupier
+        - occupiers 
+        - occupies 
+        - occupying 
+    option:
+      subwords:
+        - optional
+        - options
+    output:
+      subwords:
+        - outputs
+    overall:
+      subwords:
+    parallel:
+      subwords:
+        - paralleled
+        - parallelled
+        - parallelling
+        - parallels
+        - unparalleled
+    parameter:
+      subwords:
+        - parameters
+    phase:
+      subwords:
+        - phased
+        - phases
+        - phasing
+    predict:
+      subwords:
+        - predictability
+        - predictable
+        - predictably
+        - predicted
+        - predicting
+        - prediction
+        - predictions
+        - predicts
+        - unpredictability 
+        - unpredictable
+    principal:
+      subwords:
+        - principally
+    prior:
+      subwords:
+    professional:
+      subwords:
+        - professionally
+        - professionals
+        - professionalism
+    project:
+      subwords:
+        - projected
+        - projecting
+        - projection
+        - projections
+        - projects
+    promote:
+      subwords:
+        - promoted
+        - promoter
+        - promoters
+        - promotes
+        - promoting
+        - promotion
+        - promotions
+    regime:
+      subwords:
+        - regimes
+    resolve:
+      subwords:
+        - resolution 
+        - resolved
+        - resolves 
+        - resolving
+        - unresolved
+    retain:
+      subwords:
+        - retained
+        - retaining
+        - retainer
+        - retainers
+        - retains
+        - retention
+        - retentive
+    series:
+      subwords:
+    statistic:
+      subwords:
+        - statistician
+        - statisticians
+        - statistical 
+        - statistically 
+        - statistics 
+    status:
+      subwords:
+    stress:
+      subwords:
+        - stressed
+        - stresses
+        - stressful
+        - stressing
+        - unstressed
+    subsequent:
+      subwords:
+        - subsequently
+    sum:
+      subwords:
+        - summation
+        - summed
+        - summing
+        - sums
+    summary:
+      subwords:
+        - summaries
+        - summarise
+        - summarised
+        - summarises
+        - summarising
+        - summarisation
+        - summarisations
+        - summarization
+        - summarizations
+        - summarize
+        - summarized
+        - summarizes
+        - summarizing
+    undertake:
+      subwords:
+        - undertaken 
+        - undertakes
+        - undertaking 
+        - undertook
+sublist_5:
+    academy:
+      subwords:
+        - academia
+        - academic 
+        - academically 
+        - academics 
+        - academies
+    adjust:
+      subwords:
+        - adjusted 
+        - adjusting 
+        - adjustment  
+        - adjustments 
+        - adjusts  
+        - readjust 
+        - readjusted 
+        - readjusting 
+        - readjustment 
+        - readjustments 
+        - readjusts 
+    alter:
+      subwords:
+        - alterable 
+        - alteration 
+        - alterations 
+        - altered 
+        - altering 
+        - alternate 
+        - alternating  
+        - alters  
+        - unalterable 
+        - unaltered 
+    amend:
+      subwords:
+        - amended 
+        - amending 
+        - amendment 
+        - amendments 
+        - amends 
+    aware:
+      subwords:
+        - awareness  
+        - unaware 
+    capacity:
+      subwords:
+        - capacities 
+        - incapacitate
+        - incapacitated
+    challenge:
+      subwords:
+        - challenged 
+        - challenger 
+        - challengers 
+        - challenges 
+        - challenging 
+    clause:
+      subwords:
+        - clauses 
+    compound:
+      subwords:
+        - compounded 
+        - compounding 
+        - compounds 
+    conflict:
+      subwords:
+        - conflicted 
+        - conflicting 
+        - conflicts 
+    consult:
+      subwords:
+        - consultancy 
+        - consultant 
+        - consultants 
+        - consultation 
+        - consultations
+        - consultative 
+        - consulted 
+        - consults
+        - consulting 
+    contact:
+      subwords:
+        - contactable 
+        - contacted 
+        - contacting 
+        - contacts 
+    decline:
+      subwords:
+        - declined 
+        - declines 
+        - declining 
+    discrete:
+      subwords:
+        - discretely 
+        - discretion 
+        - discretionary 
+        - indiscrete 
+        - indiscretion 
+    draft:
+      subwords:
+        - drafted 
+        - drafting 
+        - drafts  
+        - redraft 
+        - redrafted 
+        - redrafting 
+        - redrafts 
+    enable:
+      subwords:
+        - enabled 
+        - enables 
+        - enabling 
+    energy:
+      subwords:
+        - energetic 
+        - energetically 
+        - energies 
+    enforce:
+      subwords:
+        - enforced 
+        - enforcement  
+        - enforces
+        - enforcing 
+    entity:
+      subwords:
+        - entities 
+    equivalent:
+      subwords:
+        - equivalence 
+    evolve:
+      subwords:
+        - evolution
+        - evolved 
+        - evolving 
+        - evolves 
+        - evolutionary 
+        - evolutionist 
+        - evolutionists 
+    expand:
+      subwords:
+        - expanded 
+        - expanding 
+        - expands       
+        - expansion 
+        - expansionism 
+        - expansive 
+    expose:
+      subwords:
+        - exposed 
+        - exposes  
+        - exposing 
+        - exposure 
+        - exposures
+    external:
+      subwords:
+        - externalisation 
+        - externalise 
+        - externalised 
+        - externalises 
+        - externalising 
+        - externality
+        - externalization 
+        - externalize 
+        - externalized 
+        - externalizes 
+        - externalizing 
+        - externally 
+    facilitate:
+      subwords:
+        - facilitated 
+        - facilitates 
+        - facilities  
+        - facilitating 
+        - facilitation 
+        - facilitator 
+        - facilitators 
+        - facility 
+    fundamental:
+      subwords:
+        - fundamentally 
+    generate:
+      subwords:
+        - generated  
+        - generates 
+        - generating 
+    generation:
+      subwords:
+        - generations  
+    image:
+      subwords:
+        - imagery 
+        - images 
+    liberal:
+      subwords:
+        - liberalise 
+        - liberalism
+        - liberalisation 
+        - liberalised
+        - liberalises
+        - liberalising 
+        - liberalization 
+        - liberalize
+        - liberalized
+        - liberalizes
+        - liberalizing
+        - liberate 
+        - liberated 
+        - liberates
+        - liberation
+        - liberations 
+        - liberating
+        - liberator
+        - liberators
+        - liberally 
+        - liberals 
+    licence:
+      subwords:
+        - licences 
+        - license 
+        - licensed 
+        - licensing 
+        - licenses
+        - unlicensed 
+    logic:
+      subwords:
+        - illogical 
+        - illogically 
+        - logical 
+        - logically 
+        - logician
+        - logicians
+    margin:
+      subwords:
+        - marginal 
+        - marginally 
+        - margins 
+    medical:
+      subwords:
+        - medically 
+    mental:
+      subwords:
+        - mentality 
+        - mentally 
+    modify:
+      subwords:
+        - modification  
+        - modifications 
+        - modified 
+        - modifies 
+        - modifying 
+        - unmodified 
+    monitor:
+      subwords:
+        - monitored 
+        - monitoring  
+        - monitors 
+        - unmonitored 
+    network:
+      subwords:
+        - networked 
+        - networking 
+        - networks 
+    notion:
+      subwords:
+        - notions 
+    objective:
+      subwords:
+        - objectively 
+        - objectivity 
+    orient:
+      subwords:
+        - orientate
+        - orientated
+        - orientates
+        - orientation
+        - orientating
+        - oriented 
+        - orienting 
+        - orients 
+        - reorient 
+        - reorientation 
+    perspective:
+      subwords:
+        - perspectives  
+    precise:
+      subwords:
+        - imprecise 
+        - precisely 
+        - precision 
+    prime:
+      subwords:
+        - primacy 
+    psychology:
+      subwords:
+        - psychological 
+        - psychologically  
+        - psychologist  
+        - psychologists  
+    pursue:
+      subwords:
+        - pursued 
+        - pursues 
+        - pursuing 
+        - pursuit 
+        - pursuits 
+    ratio:
+      subwords:
+        - ratios 
+    reject:
+      subwords:
+        - rejected 
+        - rejecting 
+        - rejection 
+        - rejects 
+        - rejections 
+    revenue:
+      subwords:
+        - revenues 
+    stable:
+      subwords:
+        - instability 
+        - stabilisation
+        - stabilise 
+        - stabilised 
+        - stabilises 
+        - stabilising 
+        - stabilization
+        - stabilize 
+        - stabilized 
+        - stabilizes 
+        - stabilizing 
+        - stability 
+        - unstable 
+    style:
+      subwords:
+        - styled 
+        - styles 
+        - styling
+        - stylish
+        - stylise
+        - stylised
+        - stylises
+        - stylising
+        - stylize
+        - stylized
+        - stylizes
+        - stylizing
+    substitute:
+      subwords:
+        - substituted 
+        - substitutes 
+        - substituting 
+        - substitution  
+    sustain:
+      subwords:
+        - sustainable
+        - sustainability  
+        - sustained 
+        - sustaining 
+        - sustains 
+        - sustenance
+        - unsustainable 
+    symbol:
+      subwords:
+        - symbolic 
+        - symbolically 
+        - symbolise 
+        - symbolises 
+        - symbolised 
+        - symbolising 
+        - symbolism 
+        - symbolize
+        - symbolized
+        - symbolizes
+        - symbolizing
+        - symbols 
+    target:
+      subwords:
+        - targeted 
+        - targeting 
+        - targets 
+    transit:
+      subwords:
+        - transited 
+        - transiting 
+        - transition  
+        - transitional 
+        - transitions 
+        - transitory 
+        - transits 
+    trend:
+      subwords:
+        - trends 
+    version:
+      subwords:
+        - versions 
+    welfare:
+      subwords:
+    whereas:
+      subwords:
+sublist_6:
+    abstract:
+      subwords:
+        - abstraction 
+        - abstractions 
+        - abstractly 
+        - abstracts 
+    accurate:
+      subwords:
+        - accuracy
+        - accurately 
+        - inaccuracy 
+        - inaccuracies 
+        - inaccurate 
+    acknowledge:
+      subwords:
+        - acknowledged 
+        - acknowledges 
+        - acknowledging 
+        - acknowledgement 
+        - acknowledgemens 
+    aggregate:
+      subwords:
+        - aggregated 
+        - aggregates 
+        - aggregating 
+        - aggregation 
+    allocate:
+      subwords:
+        - allocated 
+        - allocates 
+        - allocating 
+        - allocation 
+        - allocations 
+    assign:
+      subwords:
+        - assigned 
+        - assigning 
+        - assignment 
+        - assignments 
+        - assigns 
+        - reassign 
+        - reassigned 
+        - reassigning 
+        - reassigns 
+        - unassigned 
+    attach:
+      subwords:
+        - attached 
+        - attaches 
+        - attaching 
+        - attachment 
+        - attachments 
+        - unattached 
+    author:
+      subwords:
+        - authored 
+        - authoring 
+        - authors 
+        - authorship 
+    bond:
+      subwords:
+        - bonded 
+        - bonding 
+        - bonds 
+    brief:
+      subwords:
+        - brevity 
+        - briefed 
+        - briefing 
+        - briefly
+        - briefs 
+    capable:
+      subwords:
+        - capabilities  
+        - capability 
+        - incapable 
+    cite:
+      subwords:
+        - citation
+        - citations
+        - cited 
+        - citing  
+        - cites 
+    cooperate:
+      subwords:
+        - cooperated 
+        - cooperates 
+        - cooperating
+        - cooperation 
+        - cooperative  
+        - cooperatively
+        - co-operate 
+        - co‑operated 
+        - co‑operates 
+        - co‑operation 
+        - co‑operative  
+        - co‑operatively 
+    discriminate:
+      subwords:
+        - discriminated 
+        - discriminates 
+        - discriminating 
+        - discrimination  
+    display:
+      subwords:
+        - displayed 
+        - displaying 
+        - displays 
+    diverse:
+      subwords:
+        - diversely 
+        - diversification 
+        - diversified 
+        - diversifies 
+        - diversify 
+        - diversifying 
+        - diversity 
+    domain:
+      subwords:
+        - domains  
+    edit:
+      subwords:
+        - edited
+        - editing 
+        - edition 
+        - editions 
+        - editor 
+        - editorial 
+        - editorials 
+        - editors 
+        - edits
+    enhance:
+      subwords:
+        - enhanced 
+        - enhancement 
+        - enhances 
+        - enhancing 
+    estate:
+      subwords:
+        - estates 
+    exceed:
+      subwords:
+        - exceeded 
+        - exceeding 
+        - exceeds 
+    expert:
+      subwords:
+        - expertise 
+        - expertly
+        - experts 
+    explicit:
+      subwords:
+        - explicitly  
+    federal:
+      subwords:
+        - federation 
+        - federations 
+    fee:
+      subwords:
+        - fees 
+    flexible:
+      subwords:
+        - flexibility 
+        - inflexible 
+        - inflexibility 
+    furthermore:
+      subwords:
+    gender:
+      subwords:
+        - genders 
+    ignorant:
+      subwords:
+        - ignorance
+        - ignore 
+        - ignored 
+        - ignores 
+        - ignoring 
+    incentive:
+      subwords:
+        - incentives  
+    incidence:
+      subwords:
+        - incident  
+        - incidentally 
+        - incidents 
+    incorporate:
+      subwords:
+        - incorporated 
+        - incorporates 
+        - incorporating  
+        - incorporation 
+    index:
+      subwords:
+        - indexed 
+        - indexes 
+        - indexing 
+    inhibit:
+      subwords:
+        - inhibited 
+        - inhibiting 
+        - inhibition 
+        - inhibitions 
+        - inhibits 
+    initiate:
+      subwords:
+        - initiated 
+        - initiates 
+        - initiating 
+        - initiation 
+        - initiations
+        - initiative 
+        - initiatives  
+        - initiator
+        - initiators
+    input:
+      subwords:
+        - inputs 
+    instruct:
+      subwords:
+        - instruction
+        - instructed 
+        - instructing 
+        - instructions 
+        - instructive 
+        - instructor 
+        - instructors
+        - instructs 
+    intelligent:
+      subwords:
+        - intelligence
+        - intelligently 
+        - unintelligent 
+    interval:
+      subwords:
+        - intervals 
+    lecture:
+      subwords:
+        - lectured 
+        - lecturer 
+        - lecturers 
+        - lectures 
+        - lecturing 
+    migrate:
+      subwords:
+        - migrant 
+        - migrants 
+        - migrated 
+        - migrates 
+        - migrating 
+        - migration 
+        - migrations 
+        - migratory 
+    minimum:
+      subwords:
+    ministry:
+      subwords:
+        - ministered
+        - ministering
+        - ministerial 
+        - ministries  
+    motive:
+      subwords:
+        - motivate 
+        - motivated 
+        - motivates 
+        - motivating 
+        - motivation 
+        - motivations
+        - motives 
+        - unmotivated 
+    neutral:
+      subwords:
+        - neutralisation
+        - neutralise 
+        - neutralised 
+        - neutralises 
+        - neutralising 
+        - neutrality
+        - neutralization
+        - neutralize 
+        - neutralized 
+        - neutralizes 
+        - neutralizing 
+    nevertheless:
+      subwords:
+    overseas:
+      subwords:
+    precede:
+      subwords:
+        - preceded 
+        - precedence 
+        - precedent 
+        - precedes 
+        - preceding 
+        - unprecedented 
+    presume:
+      subwords:
+        - presumably  
+        - presumed 
+        - presumes 
+        - presuming 
+        - presumption 
+        - presumptions 
+        - presumptuous
+    rational:
+      subwords:
+        - irrational 
+        - rationalisation
+        - rationalisations
+        - rationalise 
+        - rationalised 
+        - rationalises 
+        - rationalising 
+        - rationalism
+        - rationality
+        - rationalization
+        - rationalizations
+        - rationalize 
+        - rationalized 
+        - rationalizes
+        - rationally
+    recover:
+      subwords:
+        - recoverable 
+        - recovered 
+        - recovering 
+        - recovers
+        - recovery 
+    reveal:
+      subwords:
+        - revealed 
+        - revealing 
+        - reveals 
+        - revelation 
+        - revelations 
+    scope:
+      subwords:
+    subsidy:
+      subwords:
+        - subsidiary 
+        - subsidies 
+        - subsidise 
+        - subsidised 
+        - subsidises 
+        - subsidising 
+        - subsidize
+        - subsidized 
+        - subsidizes 
+        - subsidizing 
+    tape:
+      subwords:
+        - taped 
+        - tapes 
+        - taping 
+    trace:
+      subwords:
+        - traceable 
+        - traced 
+        - traces 
+        - tracing 
+    transform:
+      subwords:
+        - transformation 
+        - transformations 
+        - transformed  
+        - transforming 
+        - transforms 
+    transport:
+      subwords:
+        - transportation 
+        - transported 
+        - transporter   
+        - transporters 
+        - transporting 
+        - transports 
+    underlie:
+      subwords:
+        - underlay
+        - underlies 
+        - underlying 
+    utilise:
+      subwords:
+        - utilisation 
+        - utilised 
+        - utilises
+        - utilising
+        - utiliser
+        - utilisers 
+        - utility 
+        - utilities 
+        - utilization 
+        - utilize 
+        - utilized 
+        - utilizes 
+        - utilizing
+sublist_7:
+    adapt:
+      subwords:
+        - adaptability 
+        - adaptable 
+        - adaptation 
+        - adaptations 
+        - adapted 
+        - adapting  
+        - adaptive 
+        - adapts 
+    adult:
+      subwords:
+        - adulthood 
+        - adults 
+    advocate:
+      subwords:
+        - advocacy 
+        - advocated 
+        - advocates 
+        - advocating 
+    aid:
+      subwords:
+        - aided 
+        - aiding 
+        - aids 
+        - unaided 
+    channel:
+      subwords:
+        - channelled 
+        - channelling 
+        - channels 
+    chemical:
+      subwords:
+        - chemically 
+        - chemicals 
+    classic:
+      subwords:
+        - classical 
+        - classics 
+    comprehensive:
+      subwords:
+        - comprehensively  
+    comprise:
+      subwords:
+        - comprised 
+        - comprises 
+        - comprising 
+    confirm:
+      subwords:
+        - confirmation 
+        - confirmed 
+        - confirming 
+        - confirms 
+    contrary:
+      subwords:
+        - contrarily 
+    convert:
+      subwords:
+        - conversion 
+        - conversions 
+        - converted 
+        - convertible 
+        - converting 
+        - converts 
+    couple:
+      subwords:
+        - coupled 
+        - coupling 
+        - couples 
+    decade:
+      subwords:
+        - decades 
+    definite:
+      subwords:
+        - definitely
+        - definitive
+        - indefinite
+        - indefinitely
+    deny:
+      subwords:
+        - deniable 
+        - denial
+        - denials
+        - denied 
+        - denies  
+        - denying 
+        - undeniable 
+    differentiate:
+      subwords:
+        - differentiated  
+        - differentiates 
+        - differentiating 
+        - differentiation  
+    dispose:
+      subwords:
+        - disposable 
+        - disposal 
+        - disposed 
+        - disposes 
+        - disposing 
+    dynamic:
+      subwords:
+        - dynamically 
+        - dynamics
+    eliminate:
+      subwords:
+        - eliminated 
+        - eliminates 
+        - eliminating 
+        - elimination 
+    empirical:
+      subwords:
+        - empirically 
+        - empiricism 
+    equip:
+      subwords:
+        - equipment 
+        - equipped 
+        - equipping 
+        - equips 
+    extract:
+      subwords:
+        - extracted 
+        - extracting 
+        - extraction 
+        - extracts 
+    file:
+      subwords:
+        - filed 
+        - files  
+        - filing 
+    finite:
+      subwords:
+        - infinite 
+        - infinitely 
+    foundation:
+      subwords:
+        - foundations  
+    globe:
+      subwords:
+        - global
+        - globally 
+        - globalisation 
+        - globalization 
+    grade:
+      subwords:
+        - graded  
+        - grades 
+        - grading 
+    guarantee:
+      subwords:
+        - guaranteed 
+        - guaranteeing 
+        - guarantees 
+    hierarchy:
+      subwords:
+        - hierarchical  
+        - hierarchies 
+    identical:
+      subwords:
+        - identically 
+    ideology:
+      subwords:
+        - ideological 
+        - ideologically 
+        - ideologies 
+    infer:
+      subwords:
+        - inference 
+        - inferences 
+        - inferred 
+        - inferring 
+        - infers   
+    innovate:
+      subwords:
+        - innovation
+        - innovated
+        - innovates
+        - innovating
+        - innovations 
+        - innovative 
+        - innovator 
+        - innovators 
+    insert:
+      subwords:
+        - inserted 
+        - inserting 
+        - insertion 
+        - inserts 
+    intervene:
+      subwords:
+        - intervened
+        - intervenes
+        - intervening 
+        - intervention 
+        - interventions 
+    isolate:
+      subwords:
+        - isolated 
+        - isolates 
+        - isolating 
+        - isolation 
+        - isolationism 
+    media:
+      subwords:
+    mode:
+      subwords:
+        - modes
+    paradigm:
+      subwords:
+        - paradigms 
+    phenomenon:
+      subwords:
+        - phenomena 
+        - phenomenal
+    priority:
+      subwords:
+        - priorities 
+        - prioritisation 
+        - prioritise 
+        - prioritised 
+        - prioritises 
+        - prioritising 
+        - prioritization 
+        - prioritize 
+        - prioritized 
+        - prioritizes 
+        - prioritizing 
+    prohibit:
+      subwords:
+        - prohibited 
+        - prohibiting 
+        - prohibition 
+        - prohibitions 
+        - prohibitive 
+        - prohibits 
+    publication:
+      subwords:
+        - publications  
+    quote:
+      subwords:
+        - quotation 
+        - quotations 
+        - quoted 
+        - quotes  
+        - quoting  
+    release:
+      subwords:
+        - released 
+        - releases 
+        - releasing 
+    reverse:
+      subwords:
+        - reversal 
+        - reversed 
+        - reverses 
+        - reversible 
+        - reversing 
+        - reversals 
+        - irreversible 
+    simulate:
+      subwords:
+        - simulated 
+        - simulates 
+        - simulating 
+        - simulation  
+    sole:
+      subwords:
+        - solely 
+    somewhat:
+      subwords:
+    submit:
+      subwords:
+        - submission 
+        - submissions 
+        - submits  
+        - submitted 
+        - submitting 
+    successor:
+      subwords:
+        - succession 
+        - successions 
+        - successive 
+        - successively 
+        - successors 
+    survive:
+      subwords:
+        - survival 
+        - survived 
+        - survives 
+        - surviving 
+        - survivor 
+        - survivors 
+    thesis:
+      subwords:
+        - theses 
+    topic:
+      subwords:
+        - topical 
+        - topics 
+    transmit:
+      subwords:
+        - transmission  
+        - transmissions 
+        - transmitted 
+        - transmitting 
+        - transmits 
+    ultimate:
+      subwords:
+        - ultimately  
+    unique:
+      subwords:
+        - uniquely 
+        - uniqueness 
+    visible:
+      subwords:
+        - visibility
+        - visibly 
+        - invisible 
+        - invisibility 
+    voluntary:
+      subwords:
+        - voluntarily 
+        - volunteer 
+        - volunteering 
+        - volunteered 
+        - volunteers 
+sublist_8:
+    abandon:
+      subwords:
+        - abandoned 
+        - abandoning 
+        - abandonment 
+        - abandons 
+    accompany:
+      subwords:
+        - accompanied 
+        - accompanies 
+        - accompaniment 
+        - accompanying 
+        - unaccompanied 
+    accumulate:
+      subwords:
+        - accumulated 
+        - accumulating 
+        - accumulation  
+        - accumulates 
+    ambiguous:
+      subwords:
+        - ambiguities 
+        - ambiguity 
+        - unambiguous 
+        - unambiguously 
+    append:
+      subwords:
+        - appendix
+        - appended
+        - appends
+        - appending
+        - appendices 
+        - appendixes 
+    appreciate:
+      subwords:
+        - appreciable 
+        - appreciably 
+        - appreciated 
+        - appreciates 
+        - appreciating 
+        - appreciation  
+        - unappreciated 
+    arbitrary:
+      subwords:
+        - arbitrariness
+        - arbitrarily 
+    automate:
+      subwords:
+        - automatic
+        - automated
+        - automates
+        - automating 
+        - automatically 
+        - automation 
+    bias:
+      subwords:
+        - biased 
+        - biases 
+        - biasing 
+        - unbiased 
+    chart:
+      subwords:
+        - charted 
+        - charting 
+        - charts  
+        - uncharted 
+    clarify:
+      subwords:
+        - clarification 
+        - clarified 
+        - clarifies 
+        - clarifying 
+        - clarity
+    commodity:
+      subwords:
+        - commodities 
+    complement:
+      subwords:
+        - complementary 
+        - complemented 
+        - complementing 
+        - complements 
+    conform:
+      subwords:
+        - conformable
+        - conformability
+        - conformance
+        - conformation
+        - conformed 
+        - conforming 
+        - conformist
+        - conformists
+        - conformity 
+        - conforms 
+        - nonconformist 
+        - nonconformists 
+        - nonconformity 
+        - non-conformist 
+        - non-conformists 
+        - non-conformity  
+    contemporary:
+      subwords:
+        - contemporaries 
+    contradict:
+      subwords:
+        - contradicted 
+        - contradicting 
+        - contradiction 
+        - contradictions  
+        - contradictory  
+        - contradicts 
+    crucial:
+      subwords:
+        - crucially 
+    currency:
+      subwords:
+         - currencies 
+    denote:
+      subwords:
+        - denotation 
+        - denotations 
+        - denoted 
+        - denotes
+        - denoting 
+    detect:
+      subwords:
+        - detectable 
+        - detected 
+        - detecting 
+        - detection 
+        - detective 
+        - detectives 
+        - detector 
+        - detectors 
+        - detects 
+    deviate:
+      subwords:
+        - deviated 
+        - deviates 
+        - deviating 
+        - deviation 
+        - deviations 
+    displace:
+      subwords:
+        - displaced 
+        - displacement 
+        - displaces 
+        - displacing 
+    drama:
+      subwords:
+        - dramas 
+        - dramatic 
+        - dramatically  
+        - dramatise  
+        - dramatised 
+        - dramatising
+        - dramatises  
+        - dramatisation  
+        - dramatisations
+        - dramatist 
+        - dramatists 
+        - dramatization 
+        - dramatizations
+        - dramatize 
+        - dramatized 
+        - dramatizes 
+        - dramatizing 
+    eventual:
+      subwords:
+        - eventuality 
+        - eventually  
+    exhibit:
+      subwords:
+        - exhibited 
+        - exhibiting 
+        - exhibition 
+        - exhibitions 
+        - exhibits 
+    exploit:
+      subwords:
+        - exploitation  
+        - exploited 
+        - exploiting 
+        - exploits 
+    fluctuate:
+      subwords:
+        - fluctuated 
+        - fluctuates 
+        - fluctuating 
+        - fluctuation 
+        - fluctuations  
+    guideline:
+      subwords:
+        - guidelines  
+    highlight:
+      subwords:
+        - highlighted  
+        - highlighting 
+        - highlights 
+    implicit:
+      subwords:
+        - implicitly 
+    induce:
+      subwords:
+        - induced 
+        - induces 
+        - inducing 
+        - induction 
+    inevitable:
+      subwords:
+        - inevitability 
+        - inevitably 
+    infrastructure:
+      subwords:
+        - infrastructures  
+    inspect:
+      subwords:
+        - inspected 
+        - inspecting 
+        - inspection  
+        - inspections
+        - inspector 
+        - inspectors 
+        - inspects 
+    intense:
+      subwords:
+        - intensely 
+        - intenseness
+        - intensification 
+        - intensified 
+        - intensifies 
+        - intensify 
+        - intensifying
+        - intension 
+        - intensity 
+        - intensive 
+        - intensively
+    manipulate:
+      subwords:
+        - manipulated 
+        - manipulates 
+        - manipulating
+        - manipulation  
+        - manipulations 
+        - manipulative 
+    minimise:
+      subwords:
+        - minimised 
+        - minimises 
+        - minimising 
+        - minimize 
+        - minimized 
+        - minimizes 
+        - minimizing 
+    nuclear:
+      subwords:
+    offset:
+      subwords:
+        - offsets 
+        - offsetting 
+    paragraph:
+      subwords:
+        - paragraphing 
+        - paragraphs 
+    plus:
+      subwords:
+        - pluses 
+    practitioner:
+      subwords:
+        - practitioners 
+    predominant:
+      subwords:
+        - predominance
+        - predominantly 
+        - predominate 
+        - predominated 
+        - predominates 
+        - predominating 
+    prospect:
+      subwords:
+        - prospective 
+        - prospects 
+    radical:
+      subwords:
+        - radically 
+        - radicals 
+    random:
+      subwords:
+        - randomly 
+        - randomness 
+    reinforce:
+      subwords:
+        - reinforced 
+        - reinforcement 
+        - reinforcements 
+        - reinforces 
+        - reinforcing 
+    restore:
+      subwords:
+        - restoration 
+        - restored 
+        - restores 
+        - restoring 
+    revise:
+      subwords:
+        - revised 
+        - revises 
+        - revising 
+        - revision 
+        - revisions 
+    schedule:
+      subwords:
+        - reschedule 
+        - rescheduled 
+        - reschedules 
+        - rescheduling 
+        - scheduled 
+        - schedules 
+        - scheduling 
+        - unscheduled
+    tense:
+      subwords:
+        - tension
+        - tensely 
+        - tenser 
+        - tensest 
+        - tensions 
+    terminate:
+      subwords:
+        - terminal 
+        - terminals 
+        - terminated 
+        - terminates 
+        - terminating 
+        - termination 
+        - terminations 
+    theme:
+      subwords:
+        - themes 
+        - thematic 
+        - thematically 
+    thereby:
+      subwords:
+    uniform:
+      subwords:
+        - uniformity 
+        - uniformly 
+    vehicle:
+      subwords:
+        - vehicles 
+    via:
+      subwords:
+    virtual:
+      subwords:
+        - virtually 
+    visual:
+      subwords:
+        - visualise 
+        - visualised
+        - visualised
+        - visualising
+        - visualisation 
+        - visualize 
+        - visualized
+        - visualizing
+        - visualization 
+        - visually 
+    widespread:
+      subwords:
+sublist_9:
+    accommodate:
+      subwords:
+        - accommodated 
+        - accommodates 
+        - accommodating 
+        - accommodation 
+    analogy:
+      subwords:
+        - analogies 
+        - analogous 
+    anticipate:
+      subwords:
+        - anticipated  
+        - anticipates 
+        - anticipating 
+        - anticipation 
+        - unanticipated 
+    assure:
+      subwords:
+        - assurance 
+        - assurances 
+        - assured 
+        - assuredly    
+        - assures 
+        - assuring 
+    attain:
+      subwords:
+        - attainable 
+        - attained 
+        - attaining 
+        - attainment 
+        - attainments
+        - attains 
+        - unattainable 
+    behalf:
+      subwords:
+    bulk:
+      subwords:
+        - bulky 
+    cease:
+      subwords:
+        - ceased 
+        - ceaseless 
+        - ceases 
+        - ceasing 
+    coherent:
+      subwords:
+        - coherence
+        - coherently 
+        - incoherent 
+        - incoherently 
+    coincide:
+      subwords:
+        - coincided 
+        - coincides 
+        - coinciding 
+        - coincidence 
+        - coincidences
+        - coincident
+        - coincidental
+    commence:
+      subwords:
+        - commenced 
+        - commences 
+        - commencement 
+        - commencing 
+        - recommences 
+        - recommenced 
+        - recommencing 
+    compatible:
+      subwords:
+        - compatibility 
+        - incompatibility  
+        - incompatible  
+    concurrent:
+      subwords:
+        - concurrently 
+    confine:
+      subwords:
+        - confined 
+        - confines 
+        - confining 
+        - unconfined 
+    controversy:
+      subwords:
+        - controversies
+        - controversial 
+        - controversially 
+        - uncontroversial 
+    converse:
+      subwords:
+        - conversely 
+    device:
+      subwords:
+        - devices 
+    devote:
+      subwords:
+        - devoted 
+        - devotedly
+        - devotes 
+        - devoting 
+        - devotion
+        - devotions
+    diminish:
+      subwords:
+        - diminished 
+        - diminishes 
+        - diminishing 
+        - diminution 
+        - undiminished 
+    distort:
+      subwords:
+        - distorted 
+        - distorting 
+        - distortion 
+        - distortions 
+        - distorts 
+    duration:
+      subwords:
+    erode:
+      subwords:
+        - eroded 
+        - erodes 
+        - eroding 
+        - erosion 
+    ethic:
+      subwords:
+        - ethical 
+        - ethically 
+        - ethics 
+        - unethical 
+    format:
+      subwords:
+        - formatted 
+        - formatting 
+        - formats
+    found:
+      subwords:
+        - founded 
+        - founder
+        - founders 
+        - founding 
+        - unfounded 
+    inherent:
+      subwords:
+        - inherently 
+    insight:
+      subwords:
+        - insightful 
+        - insights 
+    integral:
+      subwords:
+    intermediate:
+      subwords:
+    manual:
+      subwords:
+        - manually 
+        - manuals 
+    mature:
+      subwords:
+        - immature
+        - immaturity
+        - maturation
+        - maturational
+        - matured 
+        - matures 
+        - maturing 
+        - maturity 
+    mediate:
+      subwords:
+        - mediated 
+        - mediates 
+        - mediating 
+        - mediation 
+    medium:
+      subwords:
+    military:
+      subwords:
+    minimal:
+      subwords:
+        - minimalisation 
+        - minimalise 
+        - minimalises 
+        - minimalised 
+        - minimalising 
+        - minimalist 
+        - minimalists 
+        - minimalistic 
+        - minimalization 
+        - minimalize
+        - minimalized 
+        - minimalizes
+        - minimalizing 
+        - minimally 
+    mutual:
+      subwords:
+        - mutually 
+    norm:
+      subwords:
+        - norms 
+    overlap:
+      subwords:
+        - overlapped 
+        - overlapping 
+        - overlaps 
+    passive:
+      subwords:
+        - passively
+        - passivity 
+    portion:
+      subwords:
+        - portions 
+    preliminary:
+      subwords:
+        - preliminaries 
+    protocol:
+      subwords:
+        - protocols 
+    qualitative:
+      subwords:
+        - qualitatively 
+    refine:
+      subwords:
+        - refined 
+        - refinement 
+        - refinements 
+        - refines 
+        - refining 
+    relax:
+      subwords:
+        - relaxation 
+        - relaxed 
+        - relaxes 
+        - relaxing 
+    restrain:
+      subwords:
+        - restrained 
+        - restraining 
+        - restrains 
+        - restraint 
+        - restraints 
+        - unrestrained 
+    revolution:
+      subwords:
+        - revolutionary 
+        - revolutionaries
+        - revolutionise 
+        - revolutionised 
+        - revolutionises 
+        - revolutionising 
+        - revolutionist
+        - revolutionists
+        - revolutionize 
+        - revolutionized 
+        - revolutionizes 
+        - revolutionizing 
+        - revolutions  
+    rigid:
+      subwords:
+        - rigidities 
+        - rigidity 
+        - rigidly 
+    route:
+      subwords:
+        - routed
+        - routes 
+        - routing
+    scenario:
+      subwords:
+        - scenarios 
+    sphere:
+      subwords:
+        - spheres 
+        - spherical
+        - spherically 
+    subordinate:
+      subwords:
+        - subordinates 
+        - subordination 
+    supplement:
+      subwords:
+        - supplementary  
+        - supplemented 
+        - supplementing 
+        - supplements 
+    suspend:
+      subwords:
+        - suspended 
+        - suspending 
+        - suspends 
+        - suspension 
+    team:
+      subwords:
+        - teamed 
+        - teaming 
+        - teams  
+    temporary:
+      subwords:
+        - temporarily 
+    trigger:
+      subwords:
+        - triggered 
+        - triggering 
+        - triggers 
+    unify:
+      subwords:
+        - unification 
+        - unified 
+        - unifies 
+        - unifying 
+    violate:
+      subwords:
+        - violated 
+        - violates 
+        - violating 
+        - violation 
+        - violations 
+    vision:
+      subwords:
+        - visions
+sublist_10:
+    adjacent:
+      subwords:
+    albeit:
+      subwords:
+    assemble:
+      subwords:
+        - assembled 
+        - assembles 
+        - assemblies 
+        - assembling 
+        - assembly 
+    collapse:
+      subwords:
+        - collapsed 
+        - collapses 
+        - collapsible
+        - collapsing 
+    colleague:
+      subwords:
+        - colleagues 
+    compile:
+      subwords:
+        - compilation 
+        - compilations 
+        - compiled 
+        - compiles 
+        - compiling 
+    conceive:
+      subwords:
+        - conceivable 
+        - conceivably 
+        - conceived 
+        - conceives 
+        - conceiving 
+        - inconceivable 
+        - inconceivably 
+    convince:
+      subwords:
+        - convinced 
+        - convinces
+        - convincing 
+        - convincingly 
+        - unconvinced 
+    depress:
+      subwords:
+        - depressed 
+        - depresses 
+        - depressing 
+        - depression 
+    encounter:
+      subwords:
+        - encountered  
+        - encountering 
+        - encounters 
+    enormous:
+      subwords:
+        - enormity
+        - enormously 
+    forthcoming:
+      subwords:
+    incline:
+      subwords:
+        - inclination 
+        - inclinations 
+        - inclined 
+        - inclines 
+        - inclining 
+    integrity:
+      subwords:
+    intrinsic:
+      subwords:
+        - intrinsically 
+    invoke:
+      subwords:
+        - invoked 
+        - invokes 
+        - invoking 
+    levy:
+      subwords:
+        - levies 
+    likewise:
+      subwords:
+    nonetheless:
+      subwords:
+    notwithstanding:
+      subwords:
+    odd:
+      subwords:
+        - odds  
+    ongoing:
+      subwords:
+    panel:
+      subwords:
+        - panelled 
+        - panelling 
+        - panels 
+    persist:
+      subwords:
+        - persisted 
+        - persistence
+        - persistent 
+        - persistently 
+        - persisting 
+        - persists 
+    pose:
+      subwords:
+        - posed 
+        - poses 
+        - posing 
+    reluctance:
+      subwords:
+        - reluctant 
+        - reluctantly 
+    so‑called:
+      subwords:
+    straightforward:
+      subwords:
+    undergo:
+      subwords:
+        - undergoes 
+        - undergoing 
+        - undergone 
+        - underwent 
+    whereby:
+      subwords:

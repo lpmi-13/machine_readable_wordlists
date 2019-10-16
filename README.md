@@ -1,7 +1,7 @@
 # Machine Readable Word Lists
 
 Unfortunately, a lot of the word lists that are available on line are not in
-structured machine readable format (eg, some are pdfs).
+structured machine readable format (eg, some are pdfs, others are in html).
 
 This is a collection of those lists converted into `.yml` and `.json`, so they
 can be readily consumed and manipulated by computers.
@@ -15,6 +15,18 @@ can be readily consumed and manipulated by computers.
 An 836-item academic vocabulary list that compiles academic English common to a variety of disciplines but excluded from the GSL. Especially useful for academic reading and provides on average some 8.5% coverage of academic texts (Nation & Waring, 1997). Divided into 11 sublists based on frequency.
 
 source: http://www.auburn.edu/~nunnath/engl6240/wlistuni.html
+
+* Academic Word List (AWL)
+
+A general-purposes academic word list, particularly for reading, with 570 word families that are not included in the GSL but that have wide range in academic texts, across disciplines (based on corpus research in arts, commerce, law, and science). Further divided into 10 sublists that reflect frequency and range.
+
+source: https://www.victoria.ac.nz/lals/resources/academicwordlist
+
+* Academic Keyword List (AKL)
+
+930 potentially academic words which are listed into nouns, verbs, adjectivies, adverbs and others. The AKL differs from Coxhead’s Academic Word List as it includes high frequency words (e.g. aim, argue, because, compare, explain, namely, result) shown to play an essential structuring role in academic prose.
+
+source: https://uclouvain.be/en/research-institutes/ilc/cecl/academic-keyword-list.html
 
 ### General
 
