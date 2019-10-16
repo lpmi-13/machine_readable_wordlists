@@ -28,6 +28,12 @@ source: https://www.victoria.ac.nz/lals/resources/academicwordlist
 
 source: https://uclouvain.be/en/research-institutes/ilc/cecl/academic-keyword-list.html
 
+* Academic Vocabulary List (AVL)
+
+Based on 120 million word academic texts in Corpus of Contemporary American English (COCA). Compared to AWL is based on more recent texts, has more coverage and more information regarding word families. Sub-genres include History, Education, Law & Political Science, Social Science, Humanities, Philosophy, Religion, Psychology, Science & Technology, Medicine & Health, Business & Finance. Can download in both lemma and word family format.
+
+source: https://www.academicvocabulary.info/
+
 ### General
 
 * General Service List
