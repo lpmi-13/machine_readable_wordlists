@@ -64,6 +64,19 @@ source:
 - [Science](https://lextutor.ca/vp/eng/nat_lists/ms-cat_subs/science.pdf)
 - [Social studies & History](https://lextutor.ca/vp/eng/nat_lists/ms-cat_subs/social_and_history.pdf)
 
+*Academic Spoken Word List*
+
+The ASWL contains 1,741 word families with high frequency and wide range in an academic spoken corpus totaling 13 million words. The list, which features vocabulary from 24 subjects across four equally sized disciplinary subcorpora, is graded into four levels according to Nation’s British National Corpus and Corpus of Contemporary American English lists, and each level is divided into sublists of function words and lexical words. A flemma list is also available.
+
+source: https://osf.io/gwk45/
+
+*Soft Science Spoken Word List*
+
+The list consists of the 1,964 most frequent and wide-ranging word-families in a 6.5 million word corpus of soft-science speech, which represents 12 subjects (Art,
+Cultural Studies, History, Philosophy, Political Studies, Psychology, Business, Economics, Education, Law, Management, Public Policy) across two equally-sized sub-corpora (soft-pure, soft-applied). Word families divided into 4 lists. Flemma lists are also available.
+
+source: https://drive.google.com/file/d/1L7bPGjkuSZ773g3MLGdYyFcYsruuVkM_/view
+
 ### General
 
 *General Service List*
