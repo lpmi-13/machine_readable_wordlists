@@ -75,7 +75,7 @@ source: https://osf.io/gwk45/
 The list consists of the 1,964 most frequent and wide-ranging word-families in a 6.5 million word corpus of soft-science speech, which represents 12 subjects (Art,
 Cultural Studies, History, Philosophy, Political Studies, Psychology, Business, Economics, Education, Law, Management, Public Policy) across two equally-sized sub-corpora (soft-pure, soft-applied). Word families divided into 4 lists. Flemma lists are also available.
 
-source: https://drive.google.com/file/d/1L7bPGjkuSZ773g3MLGdYyFcYsruuVkM_/view
+source: https://drive.google.com/file/d/1L7bPGjkuSZ773g3MLGdYyFcYsruuVkM
 
 ### General
 
@@ -115,6 +115,30 @@ source: https://www.edu.uwo.ca/faculty-profiles/docs/other/webb/essential-word-l
 
 source: https://nflrc.hawaii.edu/rfl/April2019/April2019/articles/macalister.pdf#page=18
 
-### Domain-specific
+### Discipline-specific
+
+*Student Engineering English Corpus (SEEC)*
+
+1200 word families from a 2 million word corpus of Engineering Mechanics, Engineering Materials, Mechanics of Materials, Mechanics of Fluids, Thermodynamics, Electrical Engineering, Engineering Drawing, Manufacturing Process and Computer Programming. The direct link only lists first 100.
+
+source: http://www.u.arizona.edu/~karaj/pages/Reviews/Mudraya2006.pdf#page=15
+
+*Business Word List (1st Edition)*
+
+An alphabetized 560-word list of items appearing 10 or more times in five books in Nelson’s (2000) Business English Published Materials Corpus but excluded from the GSL and AWL. Reading focus.
+
+source: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.5133&rep=rep1&type=pdf#page=20
+
+*Science Word List*
+
+For undergraduates, especially for reading, this 318-word general science list represents 3.79% of the words in a corpus of 1.5 million words of texts from 14 different science subject areas. Further divided into six sublists.
+
+source: https://www.victoria.ac.nz/lals/about/staff/publications/Sci_EAP_sub_lists_Coxhead_and_Hirsh.pdf
+
+*Medical Academic Word List (MAWL)*
+
+A 623 headword list of high-frequency and wide- coverage words in a 1 million-plus corpus of academic medical research articles representing 32 medical subject areas. Excludes items from the GSL but not those from the AWL (e.g., analyze, concentrate). MAWL appeals most to graduate students pursuing medical or research degrees, for reading and writing.
+
+source: https://ecourse.uoi.gr/pluginfile.php/93039/mod_resource/content/0/medical_academic_word_list.pdf#page=11
 
 ### Collocations
