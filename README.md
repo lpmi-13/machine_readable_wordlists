@@ -141,4 +141,52 @@ A 623 headword list of high-frequency and wide- coverage words in a 1 million-pl
 
 source: https://ecourse.uoi.gr/pluginfile.php/93039/mod_resource/content/0/medical_academic_word_list.pdf#page=11
 
-### Collocations
+*Newspaper Word List (NWL)*
+
+A specialist word list of 588 word families drawn from a newspaper corpus of 579,849 words. Excludes proper names and GSL items that did not have wide range in the corpus. Items are grouped into 10 sublists according to range.
+
+source: https://jalt-publications.org/files/pdf-article/art2_5.pdf
+
+*Business Word List (2nd Edition)*
+
+A 426-word list of the most frequent items appearing in a very large Business Research Article Corpus at least 270 times, ranked according to range, frequency, and coverage. Excludes words from the British National Corpus
+below the 3,000 level. Includes 12 mathematics-/ stats-related and 4 computer items, as well as 6 compound words and 4 abbreviations.
+
+source: https://asian-esp-journal.com/wp-content/uploads/2016/01/AESP-Volume-7-Issue-4-December-2011.pdf#page=93
+
+*Engineering Technical Word List*
+
+313 word types of semi-technical words (which have one or more general English language meanings and which in technical contexts take on extended meanings). Notable use of locally produced (Malaysian) engineering textbooks as corpus i.e. non-native users of English
+
+source: http://todayscience.org/IER/article/ier.v1i1p43.pdf#page=13
+
+*Computer Science Word List*
+
+433 headwords using Coxhead criteria. Has additional multi-word list of 23 items.
+
+source: https://www.baleap.org/wp-content/uploads/2016/03/Daniel-Minshall.pdf
+
+*Engineering English Word List*
+
+The EEWL includes the 729 most frequent word families beyond the BNC/COCA 2000, appearing in 95 to 100 compulsory textbooks across 20 engineering sub-disciplines at least 288 times in the 4.57-millon-token Engineering Textbook Corpus and making a total of 14.3% lexical coverage.
+
+source: https://www.researchgate.net/publication/259133660_Measuring_the_vocabulary_load_of_engineering_textbooks_for_EFL_undergraduates
+
+*Medical Academic Vocabulary List*
+
+819 lemmas based on 2 medical corpora - a 2.7 million medical academic corpus and a 3.5 million medical textbook series corpus; A letter (“a” for adjective, “n” for noun, “v” for verb and “r” for adverb) is given after each word to indicate the part of
+speech being referenced. An asterisk is used to mark those words that are also on the new-GSL (2015)
+
+source: https://www.sciencedirect.com/science/article/pii/S1475158516300078
+
+*Business English Academic Wordlist*
+
+Based on a 16 million business english corpus - KKU-BE (accounting, marketing, advertising, finnance, business law, tourism, economics, and management) the BEAWL contains 415 headwords and 1572 family members. The list was further divided into 7 sub-lists which are arranged first by word representation across subject areas and then by word frequency.
+
+source: https://www.researchgate.net/publication/323258395_Constructing_an_Academic_Word_List_of_Business_English_A_Corpus-Based_Approach
+
+*Secondary Vocabulary List*
+
+A set of discipline-specific wordlists for secondary school education, the Secondary School Vocabulary Lists (SVL), covers eight core subjects: Biology, Chemistry, Economics, English, Geology, History, Mathematics, and Physics. The SVL also has collocation lists and phrase lists for each subject and a list of core phrases that is shared by all the 8 subjects. The unit of analysis is the lemma though a word-family version is also available.
+
+source: https://www.researchgate.net/publication/334729353_TheSecondaryVocabularyList_SVLxlsx

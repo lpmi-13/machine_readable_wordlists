@@ -1,0 +1,1715 @@
+BNC 4th 1000:
+  asset:
+    word_range: '19'
+    word_frequency: '7104'
+    word_coverage: 0.0932%
+  euro:
+    word_range: '11'
+    word_fequency: '850'
+    word_coverage: 0.0112%
+  audit:
+    word_range: '19'
+    word_fequency: '4063'
+    word_coverage: 0.0533%
+  distinguish:
+    word_range: '18'
+    word_fequency: '837'
+    word_coverage: 0.0110%
+  statistic:
+    word_range: '20'
+    word_fequency: '4061'
+    word_coverage: 0.0533%
+  consist:
+    word_range: '18'
+    word_fequency: '833'
+    word_coverage: 0.0109%
+  review:
+    word_range: '20'
+    word_fequency: '3890'
+    word_coverage: 0.0510%
+  legislate:
+    word_range: '19'
+    word_fequency: '827'
+    word_coverage: 0.0109%
+  transact:
+    word_range: '19'
+    word_fequency: '3729'
+    word_coverage: 0.0489%
+  abnormal:
+    word_range: '15'
+    word_fequency: '825'
+    word_coverage: 0.0108%
+  network:
+    word_range: '20'
+    word_fequency: '3653'
+    word_coverage: 0.0479%
+  latter:
+    word_range: '19'
+    word_fequency: '782'
+    word_coverage: 0.0103%
+  database:
+    word_range: '20'
+    word_fequency: '3651'
+    word_coverage: 0.0479%
+  former:
+    word_range: '20'
+    word_fequency: '769'
+    word_coverage: 0.0101%
+  acquire:
+    word_range: '20'
+    word_fequency: '3619'
+    word_coverage: 0.0475%
+  compose:
+    word_range: '19'
+    word_fequency: '743'
+    word_coverage: 0.0098%
+  interact:
+    word_range: '20'
+    word_fequency: '3458'
+    word_coverage: 0.0454%
+  pursue:
+    word_range: '20'
+    word_fequency: '739'
+    word_coverage: 0.0097%
+  construct:
+    word_range: '20'
+    word_fequency: '3360'
+    word_coverage: 0.0441%
+  modify:
+    word_range: '20'
+    word_fequency: '726'
+    word_coverage: 0.0095%
+  participant:
+    word_range: '20'
+    word_fequency: '3123'
+    word_coverage: 0.0410%
+  retain:
+    word_range: '20'
+    word_fequency: '722'
+    word_coverage: 0.0095%
+  integrate:
+    word_range: '20'
+    word_fequency: '2924'
+    word_coverage: 0.0384%
+  scenario:
+    word_range: '19'
+    word_fequency: '720'
+    word_coverage: 0.0094%
+  sector:
+    word_range: '20'
+    word_fequency: '2897'
+    word_coverage: 0.0380%
+  mode:
+    word_range: '18'
+    word_fequency: '719'
+    word_coverage: 0.0094%
+  currency:
+    word_range: '17'
+    word_fequency: '2760'
+    word_coverage: 0.0362%
+  differentiate:
+    word_range: '19'
+    word_fequency: '702'
+    word_coverage: 0.0092%
+  perceive:
+    word_range: '20'
+    word_fequency: '2740'
+    word_coverage: 0.0360%
+  notion:
+    word_range: '17'
+    word_fequency: '699'
+    word_coverage: 0.0092%
+  publication:
+    word_range: '20'
+    word_fequency: '2673'
+    word_coverage: 0.0351%
+  profession:
+    word_range: '17'
+    word_fequency: '678'
+    word_coverage: 0.0089%
+  task:
+    word_range: '20'
+    word_fequency: '2672'
+    word_coverage: 0.0351%
+  rapid:
+    word_range: '19'
+    word_fequency: '673'
+    word_coverage: 0.0088%
+  professor:
+    word_range: '18'
+    word_fequency: '2572'
+    word_coverage: 0.0338%
+  simultaneous:
+    word_range: '19'
+    word_fequency: '659'
+    word_coverage: 0.0086%
+  implement:
+    word_range: '20'
+    word_fequency: '2558'
+    word_coverage: 0.0336%
+  exceed:
+    word_range: '19'
+    word_fequency: '657'
+    word_coverage: 0.0086%
+  perspective:
+    word_range: '20'
+    word_fequency: '2553'
+    word_coverage: 0.0335%
+  privatise:
+    word_range: '13'
+    word_fequency: '657'
+    word_coverage: 0.0086%
+  prior:
+    word_range: '18'
+    word_fequency: '2467'
+    word_coverage: 0.0324%
+  alliance:
+    word_range: '15'
+    word_fequency: '640'
+    word_coverage: 0.0084%
+  summary:
+    word_range: '20'
+    word_fequency: '2461'
+    word_coverage: 0.0323%
+  exploit:
+    word_range: '19'
+    word_fequency: '640'
+    word_coverage: 0.0084%
+  deposit:
+    word_range: '15'
+    word_fequency: '2460'
+    word_coverage: 0.0323%
+  superior:
+    word_range: '19'
+    word_fequency: '632'
+    word_coverage: 0.0083%
+  inflate:
+    word_range: '17'
+    word_fequency: '2309'
+    word_coverage: 0.0303%
+  theme:
+    word_range: '18'
+    word_fequency: '625'
+    word_coverage: 0.0082%
+  importance:
+    word_range: '20'
+    word_fequency: '2302'
+    word_coverage: 0.0302%
+  fraud:
+    word_range: '16'
+    word_fequency: '617'
+    word_coverage: 0.0081%
+  objective:
+    word_range: '20'
+    word_fequency: '2187'
+    word_coverage: 0.0287%
+  classify:
+    word_range: '18'
+    word_fequency: '612'
+    word_coverage: 0.0080%
+  respective:
+    word_range: '19'
+    word_fequency: '2179'
+    word_coverage: 0.0286%
+  amend:
+    word_range: '16'
+    word_fequency: '604'
+    word_coverage: 0.0079%
+  primary:
+    word_range: '20'
+    word_fequency: '2151'
+    word_coverage: 0.0282%
+  expenditure:
+    word_range: '19'
+    word_fequency: '596'
+    word_coverage: 0.0078%
+  component:
+    word_range: '20'
+    word_fequency: '2075'
+    word_coverage: 0.0272%
+  software:
+    word_range: '19'
+    word_fequency: '564'
+    word_coverage: 0.0074%
+  profile:
+    word_range: '20'
+    word_fequency: '2023'
+    word_coverage: 0.0265%
+  competent:
+    word_range: '16'
+    word_fequency: '556'
+    word_coverage: 0.0073%
+  conduct:
+    word_range: '20'
+    word_fequency: '2018'
+    word_coverage: 0.0265%
+  media:
+    word_range: '20'
+    word_fequency: '548'
+    word_coverage: 0.0072%
+  explore:
+    word_range: '20'
+    word_fequency: '1914'
+    word_coverage: 0.0251%
+  guideline:
+    word_range: '19'
+    word_fequency: '524'
+    word_coverage: 0.0069%
+  output:
+    word_range: '19'
+    word_fequency: '1897'
+    word_coverage: 0.0249%
+  complement:
+    word_range: '20'
+    word_fequency: '506'
+    word_coverage: 0.0066%
+  executive:
+    word_range: '20'
+    word_fequency: '1880'
+    word_coverage: 0.0247%
+  bundle:
+    word_range: '16'
+    word_fequency: '496'
+    word_coverage: 0.0065%
+  shareholder:
+    word_range: '20'
+    word_fequency: '1871'
+    word_coverage: 0.0246%
+  allege:
+    word_range: '19'
+    word_fequency: '488'
+    word_coverage: 0.0064%
+  imply:
+    word_range: '20'
+    word_fequency: '1862'
+    word_coverage: 0.0244%
+  consistency:
+    word_range: '17'
+    word_fequency: '481'
+    word_coverage: 0.0063%
+  federal:
+    word_range: '18'
+    word_fequency: '1805'
+    word_coverage: 0.0237%
+  accumulate:
+    word_range: '18'
+    word_fequency: '473'
+    word_coverage: 0.0062%
+  academy:
+    word_range: '20'
+    word_fequency: '1769'
+    word_coverage: 0.0232%
+  privacy:
+    word_range: '16'
+    word_fequency: '468'
+    word_coverage: 0.0061%
+  participate:
+    word_range: '20'
+    word_fequency: '1727'
+    word_coverage: 0.0227%
+  informal:
+    word_range: '18'
+    word_fequency: '460'
+    word_coverage: 0.0060%
+  refine:
+    word_range: '20'
+    word_fequency: '1713'
+    word_coverage: 0.0225%
+  elaborate:
+    word_range: '17'
+    word_fequency: '446'
+    word_coverage: 0.0059%
+  yield:
+    word_range: '19'
+    word_fequency: '1700'
+    word_coverage: 0.0223%
+  sequence:
+    word_range: '17'
+    word_fequency: '438'
+    word_coverage: 0.0057%
+  bias:
+    word_range: '19'
+    word_fequency: '1693'
+    word_coverage: 0.0222%
+  web:
+    word_range: '18'
+    word_fequency: '437'
+    word_coverage: 0.0057%
+  equation:
+    word_range: '20'
+    word_fequency: '1683'
+    word_coverage: 0.0221%
+  assert:
+    word_range: '19'
+    word_fequency: '434'
+    word_coverage: 0.0057%
+  venture:
+    word_range: '20'
+    word_fequency: '1652'
+    word_coverage: 0.0217%
+  ongoing:
+    word_range: '20'
+    word_fequency: '432'
+    word_coverage: 0.0057%
+  mechanism:
+    word_range: '20'
+    word_fequency: '1598'
+    word_coverage: 0.0210%
+  graduate:
+    word_range: '19'
+    word_fequency: '430'
+    word_coverage: 0.0056%
+  trend:
+    word_range: '20'
+    word_fequency: '1581'
+    word_coverage: 0.0207%
+  elastic:
+    word_range: '15'
+    word_fequency: '429'
+    word_coverage: 0.0056%
+  attribute:
+    word_range: '20'
+    word_fequency: '1575'
+    word_coverage: 0.0207%
+  philosophy:
+    word_range: '18'
+    word_fequency: '423'
+    word_coverage: 0.0056%
+  billion:
+    word_range: '19'
+    word_fequency: '1562'
+    word_coverage: 0.0205%
+  universe:
+    word_range: '18'
+    word_fequency: '423'
+    word_coverage: 0.0056%
+  enhance:
+    word_range: '20'
+    word_fequency: '1478'
+    word_coverage: 0.0194%
+  urban:
+    word_range: '19'
+    word_fequency: '411'
+    word_coverage: 0.0054%
+  conclude:
+    word_range: '20'
+    word_fequency: '1439'
+    word_coverage: 0.0189%
+  absent:
+    word_range: '16'
+    word_fequency: '404'
+    word_coverage: 0.0053%
+  consequence:
+    word_range: '18'
+    word_fequency: '1414'
+    word_coverage: 0.0186%
+  hazard:
+    word_range: '17'
+    word_fequency: '397'
+    word_coverage: 0.0052%
+  premium:
+    word_range: '18'
+    word_fequency: '1404'
+    word_coverage: 0.0184%
+  verify:
+    word_range: '18'
+    word_fequency: '397'
+    word_coverage: 0.0052%
+  revenue:
+    word_range: '20'
+    word_fequency: '1402'
+    word_coverage: 0.0184%
+  resolve:
+    word_range: '20'
+    word_fequency: '395'
+    word_coverage: 0.0052%
+  wealth:
+    word_range: '19'
+    word_fequency: '1359'
+    word_coverage: 0.0178%
+  curve:
+    word_range: '16'
+    word_fequency: '392'
+    word_coverage: 0.0051%
+  aggregate:
+    word_range: '20'
+    word_fequency: '1352'
+    word_coverage: 0.0177%
+  overseas:
+    word_range: '16'
+    word_fequency: '391'
+    word_coverage: 0.0051%
+  merge:
+    word_range: '19'
+    word_fequency: '1327'
+    word_coverage: 0.0174%
+  legitimate:
+    word_range: '18'
+    word_fequency: '386'
+    word_coverage: 0.0051%
+  decline:
+    word_range: '20'
+    word_fequency: '1320'
+    word_coverage: 0.0173%
+  loyal:
+    word_range: '16'
+    word_fequency: '383'
+    word_coverage: 0.0050%
+  persist:
+    word_range: '20'
+    word_fequency: '1318'
+    word_coverage: 0.0173%
+  import:
+    word_range: '17'
+    word_fequency: '377'
+    word_coverage: 0.0049%
+  differ:
+    word_range: '19'
+    word_fequency: '1263'
+    word_coverage: 0.0166%
+  lobby:
+    word_range: '14'
+    word_fequency: '377'
+    word_coverage: 0.0049%
+  presence:
+    word_range: '20'
+    word_fequency: '1251'
+    word_coverage: 0.0164%
+  rural:
+    word_range: '14'
+    word_fequency: '371'
+    word_coverage: 0.0049%
+  outline:
+    word_range: '20'
+    word_fequency: '1245'
+    word_coverage: 0.0163%
+  fluctuate:
+    word_range: '18'
+    word_fequency: '370'
+    word_coverage: 0.0049%
+  subsequent:
+    word_range: '18'
+    word_fequency: '1223'
+    word_coverage: 0.0160%
+  fulfil:
+    word_range: '18'
+    word_fequency: '370'
+    word_coverage: 0.0049%
+  enterprise:
+    word_range: '19'
+    word_fequency: '1211'
+    word_coverage: 0.0159%
+  evident:
+    word_range: '18'
+    word_fequency: '358'
+    word_coverage: 0.0047%
+  turnover:
+    word_range: '20'
+    word_fequency: '1209'
+    word_coverage: 0.0159%
+  lease:
+    word_range: '16'
+    word_fequency: '356'
+    word_coverage: 0.0047%
+  intervene:
+    word_range: '19'
+    word_fequency: '1200'
+    word_coverage: 0.0157%
+  accord:
+    word_range: '19'
+    word_fequency: '351'
+    word_coverage: 0.0046%
+  cooperate:
+    word_range: '20'
+    word_fequency: '1184'
+    word_coverage: 0.0155%
+  duration:
+    word_range: '16'
+    word_fequency: '348'
+    word_coverage: 0.0046%
+  provision:
+    word_range: '19'
+    word_fequency: '1182'
+    word_coverage: 0.0155%
+  submit:
+    word_range: '19'
+    word_fequency: '344'
+    word_coverage: 0.0045%
+  mutual:
+    word_range: '18'
+    word_fequency: '1158'
+    word_coverage: 0.0152%
+  caution:
+    word_range: '20'
+    word_fequency: '338'
+    word_coverage: 0.0044%
+  accountable:
+    word_range: '17'
+    word_fequency: '1147'
+    word_coverage: 0.0151%
+  launch:
+    word_range: '19'
+    word_fequency: '338'
+    word_coverage: 0.0044%
+  underlie:
+    word_range: '19'
+    word_fequency: '1130'
+    word_coverage: 0.0148%
+  encounter:
+    word_range: '18'
+    word_fequency: '335'
+    word_coverage: 0.0044%
+  proposition:
+    word_range: '16'
+    word_fequency: '1120'
+    word_coverage: 0.0147%
+  incur:
+    word_range: '16'
+    word_fequency: '328'
+    word_coverage: 0.0043%
+  reform:
+    word_range: '18'
+    word_fequency: '1080'
+    word_coverage: 0.0142%
+  headquarters:
+    word_range: '16'
+    word_fequency: '315'
+    word_coverage: 0.0041%
+  personnel:
+    word_range: '16'
+    word_fequency: '1070'
+    word_coverage: 0.0140%
+  offset:
+    word_range: '18'
+    word_fequency: '309'
+    word_coverage: 0.0041%
+  dividend:
+    word_range: '14'
+    word_fequency: '1012'
+    word_coverage: 0.0133%
+  surplus:
+    word_range: '15'
+    word_fequency: '305'
+    word_coverage: 0.0040%
+  gender:
+    word_range: '17'
+    word_fequency: '1007'
+    word_coverage: 0.0132%
+  capitalist:
+    word_range: '13'
+    word_fequency: '302'
+    word_coverage: 0.0040%
+  sustain:
+    word_range: '20'
+    word_fequency: '1006'
+    word_coverage: 0.0132%
+  ethnic:
+    word_range: '14'
+    word_fequency: '301'
+    word_coverage: 0.0040%
+  specify:
+    word_range: '20'
+    word_fequency: '1005'
+    word_coverage: 0.0132%
+  peer:
+    word_range: '18'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+  arise:
+    word_range: '20'
+    word_fequency: '975'
+    word_coverage: 0.0128%
+  rigid:
+    word_range: '15'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+  acknowledge:
+    word_range: '20'
+    word_fequency: '973'
+    word_coverage: 0.0128%
+  enlarge:
+    word_range: '12'
+    word_fequency: '296'
+    word_coverage: 0.0039%
+  lag:
+    word_range: '19'
+    word_fequency: '951'
+    word_coverage: 0.0125%
+  clause:
+    word_range: '12'
+    word_fequency: '294'
+    word_coverage: 0.0039%
+  id:
+    word_range: '19'
+    word_fequency: '942'
+    word_coverage: 0.0124%
+  automobile:
+    word_range: '18'
+    word_fequency: '292'
+    word_coverage: 0.0038%
+  manipulate:
+    word_range: '16'
+    word_fequency: '933'
+    word_coverage: 0.0122%
+  interchange:
+    word_range: '15'
+    word_fequency: '288'
+    word_coverage: 0.0038%
+  formula:
+    word_range: '20'
+    word_fequency: '901'
+    word_coverage: 0.0118%
+  isolate:
+    word_range: '20'
+    word_fequency: '288'
+    word_coverage: 0.0038%
+  input:
+    word_range: '19'
+    word_fequency: '890'
+    word_coverage: 0.0117%
+  accompany:
+    word_range: '19'
+    word_fequency: '281'
+    word_coverage: 0.0037%
+  decade:
+    word_range: '20'
+    word_fequency: '885'
+    word_coverage: 0.0116%
+  overlap:
+    word_range: '18'
+    word_fequency: '281'
+    word_coverage: 0.0037%
+  president:
+    word_range: '19'
+    word_fequency: '858'
+    word_coverage: 0.0113%
+  preserve:
+    word_range: '19'
+    word_fequency: '279'
+    word_coverage: 0.0037%
+  administration:
+    word_range: '20'
+    word_fequency: '854'
+    word_coverage: 0.0112%
+  static:
+    word_range: '16'
+    word_fequency: '275'
+    word_coverage: 0.0036%
+  anticipate:
+    word_range: '20'
+    word_fequency: '852'
+    word_coverage: 0.0112%
+  conform:
+    word_range: '15'
+    word_fequency: '273'
+    word_coverage: 0.0036%
+BNC 5th 1000:
+  journal:
+    word_range: '20'
+    word_frequency: '6100'
+    word_coverage: 0.0801%
+  horizon:
+    word_range: '17'
+    word_fequency: '639'
+    word_coverage: 0.0084%
+  abstract:
+    word_range: '20'
+    word_fequency: '4575'
+    word_coverage: 0.0600%
+  adverse:
+    word_range: '18'
+    word_fequency: '630'
+    word_coverage: 0.0083%
+  equity:
+    word_range: '19'
+    word_fequency: '4485'
+    word_coverage: 0.0589%
+  infer:
+    word_range: '16'
+    word_fequency: '618'
+    word_coverage: 0.0081%
+  portfolio:
+    word_range: '19'
+    word_fequency: '4060'
+    word_coverage: 0.0533%
+  expertise:
+    word_range: '19'
+    word_fequency: '597'
+    word_coverage: 0.0078%
+  ratio:
+    word_range: '18'
+    word_fequency: '3366'
+    word_coverage: 0.0442%
+  commodity:
+    word_range: '17'
+    word_fequency: '594'
+    word_coverage: 0.0078%
+  emerge:
+    word_range: '20'
+    word_fequency: '2840'
+    word_coverage: 0.0373%
+  comprise:
+    word_range: '20'
+    word_fequency: '593'
+    word_coverage: 0.0078%
+  correlate:
+    word_range: '19'
+    word_fequency: '2747'
+    word_coverage: 0.0360%
+  congress:
+    word_range: '16'
+    word_fequency: '578'
+    word_coverage: 0.0076%
+  evaluate:
+    word_range: '20'
+    word_fequency: '2739'
+    word_coverage: 0.0359%
+  minimise:
+    word_range: '18'
+    word_fequency: '574'
+    word_coverage: 0.0075%
+  monetary:
+    word_range: '19'
+    word_fequency: '2455'
+    word_coverage: 0.0322%
+  induce:
+    word_range: '17'
+    word_fequency: '542'
+    word_coverage: 0.0071%
+  derive:
+    word_range: '19'
+    word_fequency: '1959'
+    word_coverage: 0.0257%
+  expansion:
+    word_range: '20'
+    word_fequency: '500'
+    word_coverage: 0.0066%
+  decrease:
+    word_range: '19'
+    word_fequency: '1913'
+    word_coverage: 0.0251%
+  administrative:
+    word_range: '19'
+    word_fequency: '490'
+    word_coverage: 0.0064%
+  innovate:
+    word_range: '19'
+    word_fequency: '1777'
+    word_coverage: 0.0233%
+  contingency:
+    word_range: '18'
+    word_fequency: '475'
+    word_coverage: 0.0062%
+  constrain:
+    word_range: '19'
+    word_fequency: '1643'
+    word_coverage: 0.0216%
+  dominant:
+    word_range: '19'
+    word_fequency: '463'
+    word_coverage: 0.0061%
+  fundamental:
+    word_range: '20'
+    word_fequency: '1639'
+    word_coverage: 0.0215%
+  credible:
+    word_range: '20'
+    word_fequency: '458'
+    word_coverage: 0.0060%
+  managerial:
+    word_range: '19'
+    word_fequency: '1624'
+    word_coverage: 0.0213%
+  inherent:
+    word_range: '19'
+    word_fequency: '437'
+    word_coverage: 0.0057%
+  subsidiary:
+    word_range: '17'
+    word_fequency: '1578'
+    word_coverage: 0.0207%
+  manifest:
+    word_range: '16'
+    word_fequency: '435'
+    word_coverage: 0.0057%
+  hence:
+    word_range: '17'
+    word_fequency: '1477'
+    word_coverage: 0.0194%
+  execute:
+    word_range: '19'
+    word_fequency: '421'
+    word_coverage: 0.0055%
+  cluster:
+    word_range: '17'
+    word_fequency: '1241'
+    word_coverage: 0.0163%
+  moderate:
+    word_range: '19'
+    word_fequency: '408'
+    word_coverage: 0.0054%
+  regime:
+    word_range: '17'
+    word_fequency: '1235'
+    word_coverage: 0.0162%
+  agriculture:
+    word_range: '19'
+    word_fequency: '407'
+    word_coverage: 0.0053%
+  dynamic:
+    word_range: '20'
+    word_fequency: '1223'
+    word_coverage: 0.0160%
+  contrary:
+    word_range: '18'
+    word_fequency: '383'
+    word_coverage: 0.0050%
+  linear:
+    word_range: '19'
+    word_fequency: '1181'
+    word_coverage: 0.0155%
+  numeric:
+    word_range: '16'
+    word_fequency: '380'
+    word_coverage: 0.0050%
+  furthermore:
+    word_range: '18'
+    word_fequency: '1144'
+    word_coverage: 0.0150%
+  attain:
+    word_range: '18'
+    word_fequency: '366'
+    word_coverage: 0.0048%
+  explicit:
+    word_range: '20'
+    word_fequency: '1136'
+    word_coverage: 0.0149%
+  comply:
+    word_range: '18'
+    word_fequency: '365'
+    word_coverage: 0.0048%
+  accrue:
+    word_range: '17'
+    word_fequency: '1067'
+    word_coverage: 0.0140%
+  auction:
+    word_range: '13'
+    word_fequency: '361'
+    word_coverage: 0.0047%
+  alpha:
+    word_range: '15'
+    word_fequency: '1031'
+    word_coverage: 0.0135%
+  reinforce:
+    word_range: '18'
+    word_fequency: '359'
+    word_coverage: 0.0047%
+  diverse:
+    word_range: '20'
+    word_fequency: '1029'
+    word_coverage: 0.0135%
+  logo:
+    word_range: '14'
+    word_fequency: '339'
+    word_coverage: 0.0044%
+  diversify:
+    word_range: '20'
+    word_fequency: '1008'
+    word_coverage: 0.0132%
+  tactic:
+    word_range: '18'
+    word_fequency: '319'
+    word_coverage: 0.0042%
+  appendix:
+    word_range: '18'
+    word_fequency: '983'
+    word_coverage: 0.0129%
+  sociology:
+    word_range: '12'
+    word_fequency: '307'
+    word_coverage: 0.0040%
+  discrete:
+    word_range: '19'
+    word_fequency: '972'
+    word_coverage: 0.0128%
+  charter:
+    word_range: '14'
+    word_fequency: '304'
+    word_coverage: 0.0040%
+  insight:
+    word_range: '20'
+    word_fequency: '954'
+    word_coverage: 0.0125%
+  certify:
+    word_range: '16'
+    word_fequency: '303'
+    word_coverage: 0.0040%
+  enforce:
+    word_range: '19'
+    word_fequency: '937'
+    word_coverage: 0.0123%
+  diminish:
+    word_range: '17'
+    word_fequency: '301'
+    word_coverage: 0.0040%
+  constitute:
+    word_range: '20'
+    word_fequency: '857'
+    word_coverage: 0.0112%
+  render:
+    word_range: '17'
+    word_fequency: '299'
+    word_coverage: 0.0039%
+  maximise:
+    word_range: '18'
+    word_fequency: '805'
+    word_coverage: 0.0106%
+  contemporary:
+    word_range: '16'
+    word_fequency: '291'
+    word_coverage: 0.0038%
+  broker:
+    word_range: '17'
+    word_fequency: '803'
+    word_coverage: 0.0105%
+  contend:
+    word_range: '20'
+    word_fequency: '291'
+    word_coverage: 0.0038%
+  disclose:
+    word_range: '16'
+    word_fequency: '753'
+    word_coverage: 0.0099%
+  worldwide:
+    word_range: '19'
+    word_fequency: '290'
+    word_coverage: 0.0038%
+  consolidate:
+    word_range: '18'
+    word_fequency: '735'
+    word_coverage: 0.0096%
+  breach:
+    word_range: '12'
+    word_fequency: '277'
+    word_coverage: 0.0036%
+  differential:
+    word_range: '17'
+    word_fequency: '723'
+    word_coverage: 0.0095%
+  diffuse:
+    word_range: '16'
+    word_fequency: '275'
+    word_coverage: 0.0036%
+  eliminate:
+    word_range: '20'
+    word_fequency: '715'
+    word_coverage: 0.0094%
+  residue:
+    word_range: '14'
+    word_fequency: '273'
+    word_coverage: 0.0036%
+  transition:
+    word_range: '20'
+    word_fequency: '695'
+    word_coverage: 0.0091%
+  stimulate:
+    word_range: '15'
+    word_fequency: '272'
+    word_coverage: 0.0036%
+  collaborate:
+    word_range: '18'
+    word_fequency: '658'
+    word_coverage: 0.0086%
+  obstacle:
+    word_range: '16'
+    word_fequency: '271'
+    word_coverage: 0.0036%
+  simulate:
+    word_range: '18'
+    word_fequency: '651'
+    word_coverage: 0.0085%
+BNC 6th 1000:
+  cite:
+    word_range: '20'
+    word_frequency: '7429'
+    word_coverage: 0.0975%
+  infrastructure:
+    word_range: '18'
+    word_fequency: '511'
+    word_coverage: 0.0067%
+  default:
+    word_range: '17'
+    word_fequency: '1698'
+    word_coverage: 0.0223%
+  litigate:
+    word_range: '14'
+    word_fequency: '491'
+    word_coverage: 0.0064%
+  affiliate:
+    word_range: '20'
+    word_fequency: '1475'
+    word_coverage: 0.0194%
+  frontier:
+    word_range: '15'
+    word_fequency: '483'
+    word_coverage: 0.0063%
+  deviate:
+    word_range: '18'
+    word_fequency: '1472'
+    word_coverage: 0.0193%
+  contingent:
+    word_range: '17'
+    word_fequency: '465'
+    word_coverage: 0.0061%
+  ethical:
+    word_range: '14'
+    word_fequency: '1315'
+    word_coverage: 0.0173%
+  threshold:
+    word_range: '17'
+    word_fequency: '432'
+    word_coverage: 0.0057%
+  compliance:
+    word_range: '19'
+    word_fequency: '1208'
+    word_coverage: 0.0159%
+  retention:
+    word_range: '18'
+    word_fequency: '411'
+    word_coverage: 0.0054%
+  interface:
+    word_range: '20'
+    word_fequency: '1145'
+    word_coverage: 0.0150%
+  takeover:
+    word_range: '11'
+    word_fequency: '410'
+    word_coverage: 0.0054%
+  rational:
+    word_range: '18'
+    word_fequency: '1135'
+    word_coverage: 0.0149%
+  momentum:
+    word_range: '14'
+    word_fequency: '405'
+    word_coverage: 0.0053%
+  robust:
+    word_range: '19'
+    word_fequency: '1101'
+    word_coverage: 0.0144%
+  ambiguity:
+    word_range: '16'
+    word_fequency: '404'
+    word_coverage: 0.0053%
+  equilibrium:
+    word_range: '18'
+    word_fequency: '1047'
+    word_coverage: 0.0137%
+  subordinate:
+    word_range: '16'
+    word_fequency: '392'
+    word_coverage: 0.0051%
+  entity:
+    word_range: '20'
+    word_fequency: '1012'
+    word_coverage: 0.0133%
+  goodwill:
+    word_range: '11'
+    word_fequency: '360'
+    word_coverage: 0.0047%
+  segment:
+    word_range: '20'
+    word_fequency: '994'
+    word_coverage: 0.0130%
+  averse:
+    word_range: '16'
+    word_fequency: '354'
+    word_coverage: 0.0046%
+  facilitate:
+    word_range: '19'
+    word_fequency: '974'
+    word_coverage: 0.0128%
+  faculty:
+    word_range: '16'
+    word_fequency: '348'
+    word_coverage: 0.0046%
+  practitioner:
+    word_range: '19'
+    word_fequency: '906'
+    word_coverage: 0.0119%
+  prevail:
+    word_range: '18'
+    word_fequency: '348'
+    word_coverage: 0.0046%
+  navigate:
+    word_range: '19'
+    word_fequency: '896'
+    word_coverage: 0.0118%
+  hierarchy:
+    word_range: '15'
+    word_fequency: '341'
+    word_coverage: 0.0045%
+  scholar:
+    word_range: '17'
+    word_fequency: '840'
+    word_coverage: 0.0110%
+  jurisdiction:
+    word_range: '16'
+    word_fequency: '339'
+    word_coverage: 0.0044%
+  workplace:
+    word_range: '15'
+    word_fequency: '794'
+    word_coverage: 0.0104%
+  accomplish:
+    word_range: '19'
+    word_fequency: '324'
+    word_coverage: 0.0043%
+  prohibit:
+    word_range: '18'
+    word_fequency: '682'
+    word_coverage: 0.0090%
+  elite:
+    word_range: '12'
+    word_fequency: '318'
+    word_coverage: 0.0042%
+  nominal:
+    word_range: '14'
+    word_fequency: '675'
+    word_coverage: 0.0089%
+  enact:
+    word_range: '15'
+    word_fequency: '314'
+    word_coverage: 0.0041%
+  appraisal:
+    word_range: '14'
+    word_fequency: '626'
+    word_coverage: 0.0082%
+  deem:
+    word_range: '17'
+    word_fequency: '299'
+    word_coverage: 0.0039%
+  undertake:
+    word_range: '20'
+    word_fequency: '607'
+    word_coverage: 0.0080%
+  cumulative:
+    word_range: '14'
+    word_fequency: '288'
+    word_coverage: 0.0038%
+  align:
+    word_range: '18'
+    word_fequency: '589'
+    word_coverage: 0.0077%
+  patent:
+    word_range: '13'
+    word_fequency: '281'
+    word_coverage: 0.0037%
+  implicit:
+    word_range: '17'
+    word_fequency: '558'
+    word_coverage: 0.0073%
+  substantive:
+    word_range: '14'
+    word_fequency: '277'
+    word_coverage: 0.0036%
+  workforce:
+    word_range: '17'
+    word_fequency: '527'
+    word_coverage: 0.0069%
+  mandatory:
+    word_range: '13'
+    word_fequency: '271'
+    word_coverage: 0.0036%
+  subjective:
+    word_range: '17'
+    word_fequency: '518'
+    word_coverage: 0.0068%
+BNC 7th 1000:
+  empirical:
+    word_range: '20'
+    word_frequency: '4656'
+    word_coverage: 0.0611%
+  logistics:
+    word_range: '15'
+    word_fequency: '481'
+    word_coverage: 0.0063%
+  disclosure:
+    word_range: '16'
+    word_fequency: '2130'
+    word_coverage: 0.0280%
+  warranty:
+    word_range: '17'
+    word_fequency: '462'
+    word_coverage: 0.0061%
+  parameter:
+    word_range: '18'
+    word_fequency: '1785'
+    word_coverage: 0.0234%
+  demography:
+    word_range: '16'
+    word_fequency: '443'
+    word_coverage: 0.0058%
+  classification:
+    word_range: '20'
+    word_fequency: '1734'
+    word_coverage: 0.0228%
+  embed:
+    word_range: '18'
+    word_fequency: '436'
+    word_coverage: 0.0057%
+  setup:
+    word_range: '19'
+    word_fequency: '1726'
+    word_coverage: 0.0227%
+  waive:
+    word_range: '12'
+    word_fequency: '431'
+    word_coverage: 0.0057%
+  moreover:
+    word_range: '19'
+    word_fequency: '1395'
+    word_coverage: 0.0183%
+  omit:
+    word_range: '17'
+    word_fequency: '413'
+    word_coverage: 0.0054%
+  moderated:
+    word_range: '12'
+    word_fequency: '745'
+    word_coverage: 0.0098%
+  overview:
+    word_range: '19'
+    word_fequency: '408'
+    word_coverage: 0.0054%
+  fiscal:
+    word_range: '17'
+    word_fequency: '737'
+    word_coverage: 0.0097%
+  trait:
+    word_range: '14'
+    word_fequency: '403'
+    word_coverage: 0.0053%
+  converge:
+    word_range: '18'
+    word_fequency: '660'
+    word_coverage: 0.0087%
+  innovative:
+    word_range: '19'
+    word_fequency: '400'
+    word_coverage: 0.0052%
+  ethics:
+    word_range: '14'
+    word_fequency: '654'
+    word_coverage: 0.0086%
+  opportune:
+    word_range: '16'
+    word_fequency: '382'
+    word_coverage: 0.0050%
+  magnitude:
+    word_range: '16'
+    word_fequency: '643'
+    word_coverage: 0.0084%
+  replicate:
+    word_range: '17'
+    word_fequency: '380'
+    word_coverage: 0.0050%
+  thereby:
+    word_range: '19'
+    word_fequency: '633'
+    word_coverage: 0.0083%
+  consensus:
+    word_range: '20'
+    word_fequency: '354'
+    word_coverage: 0.0046%
+  capitalise:
+    word_range: '16'
+    word_fequency: '608'
+    word_coverage: 0.0080%
+  impair:
+    word_range: '13'
+    word_fequency: '312'
+    word_coverage: 0.0041%
+  qualitative:
+    word_range: '19'
+    word_fequency: '546'
+    word_coverage: 0.0072%
+  deregulate:
+    word_range: '11'
+    word_fequency: '306'
+    word_coverage: 0.0040%
+  metaphor:
+    word_range: '11'
+    word_fequency: '544'
+    word_coverage: 0.0071%
+  spouse:
+    word_range: '12'
+    word_fequency: '302'
+    word_coverage: 0.0040%
+  counterpart:
+    word_range: '17'
+    word_fequency: '507'
+    word_coverage: 0.0067%
+  capita:
+    word_range: '12'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+  domain:
+    word_range: '17'
+    word_fequency: '506'
+    word_coverage: 0.0066%
+  encompass:
+    word_range: '19'
+    word_fequency: '271'
+    word_coverage: 0.0036%
+  diverge:
+    word_range: '17'
+    word_fequency: '495'
+    word_coverage: 0.0065%
+BNC 8th 1000:
+  copyright:
+    word_range: '20'
+    word_frequency: '3358'
+    word_coverage: 0.0441%
+  tangible:
+    word_range: '16'
+    word_fequency: '436'
+    word_coverage: 0.0057%
+  volatile:
+    word_range: '19'
+    word_fequency: '2606'
+    word_coverage: 0.0342%
+  increment:
+    word_range: '17'
+    word_fequency: '382'
+    word_coverage: 0.0050%
+  violate:
+    word_range: '18'
+    word_fequency: '1028'
+    word_coverage: 0.0135%
+  authentic:
+    word_range: '11'
+    word_fequency: '377'
+    word_coverage: 0.0049%
+  mediate:
+    word_range: '15'
+    word_fequency: '946'
+    word_coverage: 0.0124%
+  restate:
+    word_range: '12'
+    word_fequency: '366'
+    word_coverage: 0.0048%
+  denote:
+    word_range: '17'
+    word_fequency: '810'
+    word_coverage: 0.0106%
+  competence:
+    word_range: '15'
+    word_fequency: '328'
+    word_coverage: 0.0043%
+  dependence:
+    word_range: '18'
+    word_fequency: '769'
+    word_coverage: 0.0101%
+  depict:
+    word_range: '16'
+    word_fequency: '315'
+    word_coverage: 0.0041%
+  online:
+    word_range: '19'
+    word_fequency: '745'
+    word_coverage: 0.0098%
+  rationale:
+    word_range: '15'
+    word_fequency: '315'
+    word_coverage: 0.0041%
+  dynamics:
+    word_range: '18'
+    word_fequency: '726'
+    word_coverage: 0.0095%
+  hierarchical:
+    word_range: '15'
+    word_fequency: '303'
+    word_coverage: 0.0040%
+  bankruptcy:
+    word_range: '17'
+    word_fequency: '711'
+    word_coverage: 0.0093%
+  oversight:
+    word_range: '14'
+    word_fequency: '290'
+    word_coverage: 0.0038%
+  multinational:
+    word_range: '16'
+    word_fequency: '644'
+    word_coverage: 0.0085%
+  offshore:
+    word_range: '13'
+    word_fequency: '289'
+    word_coverage: 0.0038%
+  matrix:
+    word_range: '17'
+    word_fequency: '618'
+    word_coverage: 0.0081%
+  latent:
+    word_range: '14'
+    word_fequency: '282'
+    word_coverage: 0.0037%
+  configure:
+    word_range: '13'
+    word_fequency: '501'
+    word_coverage: 0.0066%
+  physician:
+    word_range: '11'
+    word_fequency: '281'
+    word_coverage: 0.0037%
+  attorney:
+    word_range: '11'
+    word_fequency: '462'
+    word_coverage: 0.0061%
+  mandate:
+    word_range: '16'
+    word_fequency: '270'
+    word_coverage: 0.0035%
+  'null':
+    word_range: '15'
+    word_fequency: '453'
+    word_coverage: 0.0059%
+BNC 9th 1000:
+  hypothesis:
+    word_range: '20'
+    word_frequency: '5258'
+    word_coverage: 0.0690%
+  transparency:
+    word_range: '16'
+    word_fequency: '415'
+    word_coverage: 0.0054%
+  regress:
+    word_range: '16'
+    word_fequency: '3421'
+    word_coverage: 0.0449%
+  optimise:
+    word_range: '20'
+    word_fequency: '376'
+    word_coverage: 0.0049%
+  entrepreneur:
+    word_range: '17'
+    word_fequency: '2460'
+    word_coverage: 0.0323%
+  automate:
+    word_range: '17'
+    word_fequency: '334'
+    word_coverage: 0.0044%
+  underwrite:
+    word_range: '12'
+    word_fequency: '901'
+    word_coverage: 0.0118%
+  autonomy:
+    word_range: '13'
+    word_fequency: '330'
+    word_coverage: 0.0043%
+  inventory:
+    word_range: '19'
+    word_fequency: '548'
+    word_coverage: 0.0072%
+  harmonise:
+    word_range: '12'
+    word_fequency: '326'
+    word_coverage: 0.0043%
+  collateral:
+    word_range: '12'
+    word_fequency: '507'
+    word_coverage: 0.0067%
+  appraise:
+    word_range: '13'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+  mitigate:
+    word_range: '19'
+    word_fequency: '448'
+    word_coverage: 0.0059%
+  temporal:
+    word_range: '14'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+BNC 10th 1000:
+  coefficient:
+    word_range: '17'
+    word_frequency: '3193'
+    word_coverage: 0.0419%
+  legitimacy:
+    word_range: '14'
+    word_fequency: '534'
+    word_coverage: 0.0070%
+  optimal:
+    word_range: '19'
+    word_fequency: '1876'
+    word_coverage: 0.0246%
+  intermediary:
+    word_range: '13'
+    word_fequency: '522'
+    word_coverage: 0.0069%
+  entrepreneurial:
+    word_range: '13'
+    word_fequency: '883'
+    word_coverage: 0.0116%
+  paradigm:
+    word_range: '19'
+    word_fequency: '515'
+    word_coverage: 0.0068%
+  median:
+    word_range: '15'
+    word_fequency: '778'
+    word_coverage: 0.0102%
+  decompose:
+    word_range: '16'
+    word_fequency: '364'
+    word_coverage: 0.0048%
+  beta:
+    word_range: '16'
+    word_fequency: '763'
+    word_coverage: 0.0100%
+  logarithm:
+    word_range: '12'
+    word_fequency: '293'
+    word_coverage: 0.0038%
+  causal:
+    word_range: '16'
+    word_fequency: '738'
+    word_coverage: 0.0097%
+  algorithm:
+    word_range: '13'
+    word_fequency: '284'
+    word_coverage: 0.0037%
+  vector:
+    word_range: '14'
+    word_fequency: '730'
+    word_coverage: 0.0096%
+  proactive:
+    word_range: '17'
+    word_fequency: '281'
+    word_coverage: 0.0037%
+  download:
+    word_range: '20'
+    word_fequency: '565'
+    word_coverage: 0.0074%
+BNC 11th 1000:
+  governance:
+    word_range: '19'
+    word_frequency: '1574'
+    word_coverage: 0.0207%
+  interpersonal:
+    word_range: '11'
+    word_fequency: '466'
+    word_coverage: 0.0061%
+  proxy:
+    word_range: '16'
+    word_fequency: '1012'
+    word_coverage: 0.0133%
+  parenthesis:
+    word_range: '12'
+    word_fequency: '383'
+    word_coverage: 0.0050%
+  cognitive:
+    word_range: '12'
+    word_fequency: '899'
+    word_coverage: 0.0118%
+  ltd:
+    word_range: '18'
+    word_fequency: '348'
+    word_coverage: 0.0046%
+  heterogeneity:
+    word_range: '16'
+    word_fequency: '586'
+    word_coverage: 0.0077%
+  lawsuit:
+    word_range: '11'
+    word_fequency: '273'
+    word_coverage: 0.0036%
+BNC 12th 1000:
+  keyword:
+    word_range: '17'
+    word_frequency: '1138'
+    word_coverage: 0.0149%
+  endogenous:
+    word_range: '16'
+    word_fequency: '419'
+    word_coverage: 0.0055%
+  asymmetry:
+    word_range: '17'
+    word_fequency: '947'
+    word_coverage: 0.0124%
+  synergy:
+    word_range: '13'
+    word_fequency: '396'
+    word_coverage: 0.0052%
+  benchmark:
+    word_range: '18'
+    word_fequency: '778'
+    word_coverage: 0.0102%
+  transactional:
+    word_range: '14'
+    word_fequency: '322'
+    word_coverage: 0.0042%
+  accession:
+    word_range: '18'
+    word_fequency: '613'
+    word_coverage: 0.0080%
+  inflow:
+    word_range: '11'
+    word_fequency: '297'
+    word_coverage: 0.0039%
+  antecedent:
+    word_range: '12'
+    word_fequency: '482'
+    word_coverage: 0.0063%
+  idiosyncratic:
+    word_range: '13'
+    word_fequency: '290'
+    word_coverage: 0.0038%
+BNC 13th 1000:
+  stakeholder:
+    word_range: '20'
+    word_frequency: '939'
+    word_coverage: 0.0123%
+  posit:
+    word_range: '15'
+    word_fequency: '295'
+    word_coverage: 0.0039%
+  normative:
+    word_range: '14'
+    word_fequency: '498'
+    word_coverage: 0.0065%
+  multivariate:
+    word_range: '15'
+    word_fequency: '270'
+    word_coverage: 0.0035%
+  salient:
+    word_range: '12'
+    word_fequency: '310'
+    word_coverage: 0.0041%
+BNC 14th 1000:
+  gdp:
+    word_range: '15'
+    word_frequency: '1136'
+    word_coverage: 0.0149%
+  exogenous:
+    word_range: '17'
+    word_fequency: '380'
+    word_coverage: 0.0050%
+  stochastic:
+    word_range: '12'
+    word_fequency: '589'
+    word_coverage: 0.0077%
+  payoff:
+    word_range: '15'
+    word_fequency: '332'
+    word_coverage: 0.0044%
+  macroeconomic:
+    word_range: '14'
+    word_fequency: '447'
+    word_coverage: 0.0059%
+  dataset:
+    word_range: '15'
+    word_fequency: '299'
+    word_coverage: 0.0039%
